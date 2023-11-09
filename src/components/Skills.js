@@ -1,6 +1,3 @@
-import meter1 from "../assets/img/meter1.svg";
-import meter2 from "../assets/img/meter2.svg";
-import meter3 from "../assets/img/meter3.svg";
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 import arrow1 from "../assets/img/arrow1.svg";
@@ -10,9 +7,8 @@ import colorSharp from "../assets/img/color-sharp.png";
 export const Skills = () => {
   const responsive = {
     superLargeDesktop: {
-      // the naming can be any, depends on you.
       breakpoint: { max: 4000, min: 3000 },
-      items: 5,
+      items: 3,
     },
     desktop: {
       breakpoint: { max: 3000, min: 1024 },
@@ -20,7 +16,7 @@ export const Skills = () => {
     },
     tablet: {
       breakpoint: { max: 1024, min: 464 },
-      items: 2,
+      items: 1,
     },
     mobile: {
       breakpoint: { max: 464, min: 0 },
@@ -35,23 +31,43 @@ export const Skills = () => {
           <div className="col-12">
             <div className="skill-bx wow zoomIn">
               <h2>Skills</h2>
-
               <Carousel
                 responsive={responsive}
                 infinite={true}
                 className="owl-carousel owl-theme skill-slider"
               >
                 <div className="item">
-                  <img src={meter1} alt="Image" />
-                  <h5>Web Development</h5>
+                  <p>HTML</p>
                 </div>
                 <div className="item">
-                  <img src={meter2} alt="Image" />
-                  <h5>UX Design</h5>
+                  <p>CSS</p>
                 </div>
                 <div className="item">
-                  <img src={meter3} alt="Image" />
-                  <h5>UI Design</h5>
+                  <p>JavaScript</p>
+                </div>
+                <div className="item">
+                  <p>React</p>
+                </div>
+                <div className="item">
+                  <p>Bootstrap</p>
+                </div>
+                <div className="item">
+                  <p>Git</p>
+                </div>
+                <div className="item">
+                  <p>Github</p>
+                </div>
+                <div className="item">
+                  <p>Jira</p>
+                </div>
+                <div className="item">
+                  <p>Figma</p>
+                </div>
+                <div className="item">
+                  <p>Spline</p>
+                </div>
+                <div className="item">
+                  <p>Unity</p>
                 </div>
               </Carousel>
             </div>
