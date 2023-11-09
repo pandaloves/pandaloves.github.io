@@ -243,7 +243,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .banner {
   margin-top: 0;
   padding: 260px 0 100px 0;
-  background-image: url("./assets/img/Dark-Matter_BANNER.png");
+  background-image: url("./assets/img/banner.jpg");
   background-position: top center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -272,7 +272,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 .banner p {
   color: #fff;
-  font-size: 20px;
+  font-size: 18px;
   letter-spacing: 0.8px;
   line-height: 1.5em;
   width: 96%;
@@ -300,7 +300,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 
 /************ Skills ************/
 .skill {
-  padding: 80z px 0 50px 0;
+  padding: 50px 0 50px 0;
   margin-bottom: 0;
   position: relative;
 }
@@ -313,6 +313,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .skill h2 {
   font-size: 45px;
   font-weight: 700;
+  margin-top: 50px;
   margin-bottom: 20px;
 }
 
@@ -320,10 +321,6 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   width: 80%;
   margin: 0 auto;
   position: relative;
-}
-.skill-slider .item img {
-  width: 50%;
-  margin: 0 auto 15px auto;
 }
 .background-image-left {
   top: 28%;
@@ -336,8 +333,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 
 /************ Projects ************/
 .project {
-  padding-top: 130px;
-  margin-top: 80px;
+  padding-top: 80px;
+  margin-top: 50px;
   position: relative;
   background-color: black;
   margin-bottom: 80px;
@@ -346,6 +343,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   font-size: 45px;
   font-weight: 700;
   text-align: center;
+  margin-top: 85px;
   margin-bottom: 20px;
 }
 
@@ -458,26 +456,20 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 /************ Projects end ************/
 
-/************ Footer ************/
-.footer {
-  padding: 50px 0 50px 0;
-  background-image: url("./assets/img/footer-bg.png");
-  background-position: center center;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
+/************ News letter ************/
 .newsletter-bx {
   margin-top: 50px;
-  margin-bottom: 50px;
+  margin-bottom: 38px;
   background: #ffffff;
   border-radius: 55px;
   color: #121212;
-  padding: 138px 100px;
+  padding: 150px 30px;
 }
 .newsletter-bx h3 {
   font-weight: 700;
   letter-spacing: 0.5px;
   line-height: 1.2em;
+  margin-bottom: 30px;
 }
 .new-email-bx {
   background: #fff;
@@ -510,14 +502,6 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   bottom: 0;
   right: 0;
 }
-.new-email-bx input {
-  width: 100%;
-  color: #121212;
-  font-weight: 500;
-  background: transparent;
-  border: 0;
-  padding: 0 15px;
-}
 .new-email-bx button {
   background: linear-gradient(90.21deg, #aa367c -5.91%, #4a2fbd 111.58%);
   padding: 20px;
@@ -525,13 +509,23 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   font-weight: 500;
   letter-spacing: 0.5px;
   border-radius: 18px;
+  width: 99.8%;
 }
-
 #email-button {
   font-size: 30px;
   color: white;
 }
 
+/************ News letter ends ************/
+
+/************ Footer ************/
+.footer {
+  padding: 50px 0 50px 0;
+  background-image: url("./assets/img/footer-bg.png");
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 .footer img {
   width: 26%;
 }
@@ -545,24 +539,19 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 /************ Footer ends ************/
 
 /************ Media queries ************/
-@media (min-width: 1700px) {
+@media screen and (min-width: 1700px) {
   main .container {
     max-width: 100%;
     padding: 0 150px;
   }
 }
 
-@media (min-width: 420px) {
+@media screen and (min-width: 420px) {
   #footer-logo {
     width: 40%;
   }
-
-  .new-email-bx input {
-    width: 33%;
-  }
-  .new-email-bx button {
-    padding: 10px;
-    font-weight: 50;
+  .item p {
+    font-size: 15px;
   }
 }
 /************ Media queries end ************/

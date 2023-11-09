@@ -1,7 +1,6 @@
 import { useState, useEffect } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import headerImg from "../assets/img/Jag.png";
-import { ArrowRightCircle } from "react-bootstrap-icons";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
 
@@ -63,13 +62,13 @@ export const Banner = () => {
                     isVisible ? "animate__animated animate__fadeIn" : ""
                   }
                 >
-                  <span className="tagline">Welcome to my Portfolio</span>
+                  <span className="tagline">Welcome to my Portfolio!</span>
                   <h1>
-                    {`Hi! I'm Meiying`}{" "}
+                    {`Hi! I'm Meiying,`}{" "}
                     <span
                       className="txt-rotate"
                       dataPeriod="1000"
-                      data-rotate='[ "Web Developer", "Web Designer", "UX/UI Designer" ]'
+                      data-rotate='[ "Web Developer", "UX/UI Designer" ]'
                     >
                       <span className="wrap">{text}</span>
                     </span>
