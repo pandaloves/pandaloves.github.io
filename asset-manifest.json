@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6147a4ce.css",
-    "main.js": "/static/js/main.454a9c3b.js",
+    "main.css": "/static/css/main.817efa71.css",
+    "main.js": "/static/js/main.6873054c.js",
     "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
     "static/media/Happy coffee.png": "/static/media/Happy coffee.581b49b7aa506330ce6d.png",
     "static/media/macdonalds.png": "/static/media/macdonalds.c2644a3b1aaba594f906.png",
@@ -31,20 +31,17 @@
     "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
-    "static/media/meter3.svg": "/static/media/meter3.1b8f416eccd1ee162218b8528a1c5cdc.svg",
-    "static/media/meter2.svg": "/static/media/meter2.c4085ff859afbd8488e9da47d4953850.svg",
-    "static/media/meter1.svg": "/static/media/meter1.2201f7e4df22bc4b08180210474f28cc.svg",
     "index.html": "/index.html",
     "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/arrow2.svg": "/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.6147a4ce.css.map": "/static/css/main.6147a4ce.css.map",
-    "main.454a9c3b.js.map": "/static/js/main.454a9c3b.js.map",
+    "main.817efa71.css.map": "/static/css/main.817efa71.css.map",
+    "main.6873054c.js.map": "/static/js/main.6873054c.js.map",
     "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6147a4ce.css",
-    "static/js/main.454a9c3b.js"
+    "static/css/main.817efa71.css",
+    "static/js/main.6873054c.js"
   ]
 }
