@@ -18,6 +18,7 @@ import projImg15 from "../assets/img/projects/ui projects/on-off.png";
 import projImg16 from "../assets/img/projects/ui projects/onloading.png";
 import projImg17 from "../assets/img/projects/ui projects/google.png";
 import projImg18 from "../assets/img/projects/ui projects/safari.png";
+import projImg19 from "../assets/img/projects/web development projects/svenska matsal.jpg";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
@@ -36,6 +37,13 @@ export const Projects = () => {
       description: "With HTML, CSS & JavaScript",
       imgUrl: projImg3,
       websiteLink: "https://pandaloves.github.io/Gym-locker-reserve-app/",
+    },
+    {
+      title: "Svensk traditionell smak matsal",
+      description: "With React",
+      imgUrl: projImg19,
+      websiteLink:
+        "https://pandaloves.github.io/Svensk-traditionell-smak-Matsal/",
     },
     {
       title: "Danli restaurant",
