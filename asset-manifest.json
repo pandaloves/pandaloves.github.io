@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cf90d5a1.css",
-    "main.js": "/static/js/main.c3d47216.js",
+    "main.js": "/static/js/main.83ea03cd.js",
     "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
     "static/media/Happy coffee.png": "/static/media/Happy coffee.581b49b7aa506330ce6d.png",
     "static/media/macdonalds.png": "/static/media/macdonalds.c2644a3b1aaba594f906.png",
@@ -19,6 +19,7 @@
     "static/media/ea.png": "/static/media/ea.22259599263e062d061f.png",
     "static/media/Danli restaurant.png": "/static/media/Danli restaurant.a8032c9ca69529706bc8.png",
     "static/media/safari.png": "/static/media/safari.a796ab5068d2e801ab8d.png",
+    "static/media/svenska matsal.jpg": "/static/media/svenska matsal.af24a38da37fc8ba2278.jpg",
     "static/media/Gym locker reserve.png": "/static/media/Gym locker reserve.2729d41946b58431f60a.png",
     "static/media/google.png": "/static/media/google.c58a832b5abaf1af40b0.png",
     "static/media/onloading.png": "/static/media/onloading.95121ef39815ab22ac4c.png",
@@ -37,11 +38,11 @@
     "static/media/arrow1.svg": "/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.cf90d5a1.css.map": "/static/css/main.cf90d5a1.css.map",
-    "main.c3d47216.js.map": "/static/js/main.c3d47216.js.map",
+    "main.83ea03cd.js.map": "/static/js/main.83ea03cd.js.map",
     "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf90d5a1.css",
-    "static/js/main.c3d47216.js"
+    "static/js/main.83ea03cd.js"
   ]
 }
