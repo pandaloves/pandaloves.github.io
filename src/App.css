@@ -329,6 +329,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   width: 40%;
   z-index: -4;
 }
+.item p {
+  font-size: 15px;
+}
 /************ Skills end ************/
 
 /************ Projects ************/
@@ -433,7 +436,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   opacity: 1;
 }
 .proj-txtx h4 {
-  font-size: 30px;
+  font-size: 20px;
   font-weight: 700;
   letter-spacing: 0.8px;
   line-height: 1.1em;
@@ -536,21 +539,3 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   margin-top: 20px;
 }
 /************ Footer ends ************/
-
-/************ Media queries ************/
-@media screen and (min-width: 1700px) {
-  main .container {
-    max-width: 100%;
-    padding: 0 150px;
-  }
-}
-
-@media screen and (min-width: 420px) {
-  #footer-logo {
-    width: 40%;
-  }
-  .item p {
-    font-size: 15px;
-  }
-}
-/************ Media queries end ************/

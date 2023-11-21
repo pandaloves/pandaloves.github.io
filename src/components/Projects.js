@@ -32,12 +32,6 @@ export const Projects = () => {
         "https://docs.google.com/presentation/d/1LhC6hNyZTOHi5gAFJWvrNiOCmVj_aSaU-s2n8XoWF1w/edit?usp=sharing",
     },
     {
-      title: "Masro",
-      description: "With HTML, CSS & JavaScript",
-      imgUrl: projImg2,
-      websiteLink: "https://pandaloves.github.io/Masro-project/",
-    },
-    {
       title: "Gym locker reserve",
       description: "With HTML, CSS & JavaScript",
       imgUrl: projImg3,
@@ -60,6 +54,12 @@ export const Projects = () => {
       description: "With HTML, CSS & JavaScript",
       imgUrl: projImg6,
       websiteLink: "https://pandaloves.github.io/Boulder-dash/",
+    },
+    {
+      title: "Masro",
+      description: "With HTML, CSS & JavaScript",
+      imgUrl: projImg2,
+      websiteLink: "https://pandaloves.github.io/Masro-project/",
     },
   ];
 
@@ -174,7 +174,7 @@ export const Projects = () => {
                       id="pills-tab"
                     >
                       <Nav.Item>
-                        <Nav.Link eventKey="first">WD</Nav.Link>
+                        <Nav.Link eventKey="first">FD</Nav.Link>
                       </Nav.Item>
                       <Nav.Item>
                         <Nav.Link eventKey="second">UX</Nav.Link>

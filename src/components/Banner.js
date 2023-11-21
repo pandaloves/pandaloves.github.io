@@ -10,7 +10,7 @@ export const Banner = () => {
   const [text, setText] = useState("");
   const [delta, setDelta] = useState(300 - Math.random() * 100);
   const [index, setIndex] = useState(1);
-  const toRotate = ["Web Developer", "UX/UI Designer"];
+  const toRotate = ["Frontend Developer", "UX/UI Designer"];
   const period = 2000;
 
   useEffect(() => {
@@ -68,14 +68,14 @@ export const Banner = () => {
                     <span
                       className="txt-rotate"
                       dataPeriod="1000"
-                      data-rotate='[ "Web Developer", "UX/UI Designer" ]'
+                      data-rotate='[ "Frontend Developer", "UX/UI Designer" ]'
                     >
                       <span className="wrap">{text}</span>
                     </span>
                   </h1>
                   <p>
                     {" "}
-                    Hi! I'm Meiying, a Web Developer and UX / UI designer,
+                    Hi! I'm Meiying, a Frontend Developer and UX / UI designer,
                     understanding how technology impacts people's behaviours and
                     habits. I am also a licensed English teacher, with a
                     master's degree in pedagogy. I am inquisitive, positive,
