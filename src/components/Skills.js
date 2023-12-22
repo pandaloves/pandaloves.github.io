@@ -64,10 +64,7 @@ export const Skills = () => {
                   <p>Figma</p>
                 </div>
                 <div className="item">
-                  <p>Spline</p>
-                </div>
-                <div className="item">
-                  <p>Unity</p>
+                  <p>API</p>
                 </div>
               </Carousel>
             </div>

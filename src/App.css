@@ -1,4 +1,4 @@
-/************ Custom Font ************/
+/* Custom Font */
 @font-face {
   font-family: Centra;
   src: url("./assets/font/CentraNo2-Bold.ttf");
@@ -14,20 +14,18 @@
   src: url("./assets/font/CentraNo2-Book.ttf");
   font-weight: 400;
 }
-/************ Custom Font ends ************/
+/* Custom Font ends */
 
-/************ General settings************/
+/* General settings */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
-
 html {
   scroll-behavior: smooth;
   scroll-padding-top: 75px;
 }
-
 body {
   font-weight: 400;
   overflow-x: hidden;
@@ -36,7 +34,6 @@ body {
   color: #fff !important;
   font-family: "Centra", sans-serif !important;
 }
-
 h1,
 h2,
 h3,
@@ -47,7 +44,6 @@ h6 {
   padding: 0;
   line-height: normal;
 }
-
 p,
 a,
 li,
@@ -58,37 +54,31 @@ ul {
   line-height: normal;
   text-decoration: none;
 }
-
 a:hover {
   text-decoration: none;
 }
-
 img {
   width: 100%;
   height: auto;
 }
-
 button {
   border: 0;
   background-color: transparent;
 }
-
 input:focus,
 textarea:focus,
 select:focus {
   outline: none;
 }
-
 p.success {
   color: green;
 }
-
 p.danger {
   color: red;
 }
-/************ General settings end ************/
+/* General settings end */
 
-/************ Navbar ************/
+/* Navbar */
 nav.navbar {
   padding: 18px 0;
   position: fixed;
@@ -237,9 +227,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon:before {
 nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   border-color: transparent;
 }
-/************ Navbar ends ************/
+/* Navbar ends */
 
-/************ Banner ************/
+/* Banner */
 .banner {
   margin-top: 0;
   padding: 260px 0 100px 0;
@@ -296,9 +286,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .txt-rotate > .wrap {
   border-right: 0.08em solid #666;
 }
-/************ Banner ends ************/
+/* Banner ends */
 
-/************ Skills ************/
+/* Skills */
 .skill {
   padding: 50px 0 50px 0;
   margin-bottom: 0;
@@ -316,7 +306,6 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   margin-top: 50px;
   margin-bottom: 20px;
 }
-
 .skill-slider {
   width: 80%;
   margin: 0 auto;
@@ -332,9 +321,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .item p {
   font-size: 15px;
 }
-/************ Skills end ************/
+/* Skills end */
 
-/************ Projects ************/
+/* Projects */
 .project {
   padding-top: 80px;
   margin-top: 50px;
@@ -349,7 +338,6 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   margin-top: 85px;
   margin-bottom: 20px;
 }
-
 .project .nav.nav-pills {
   width: 72%;
   margin: 0 auto;
@@ -457,9 +445,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   right: 0;
   z-index: -4;
 }
-/************ Projects end ************/
+/* Projects end */
 
-/************ News letter ************/
+/* News letter */
 .newsletter-bx {
   margin-top: 50px;
   margin-bottom: 38px;
@@ -518,9 +506,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   font-size: 30px;
   color: white;
 }
-/************ News letter ends ************/
+/* News letter ends */
 
-/************ Footer ************/
+/* Footer */
 .footer {
   padding: 50px 0 50px 0;
   background-image: url("./assets/img/footer-bg.png");
@@ -538,4 +526,4 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   letter-spacing: 0.5px;
   margin-top: 20px;
 }
-/************ Footer ends ************/
+/* Footer ends */
