@@ -1,11 +1,11 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
-import projImg1 from "../assets/img/projects/web development projects/Happy coffee.png";
-import projImg2 from "../assets/img/projects/web development projects/masro.png";
+import projImg1 from "../assets/img/projects/web development projects/Blog API & Client.png";
+import projImg2 from "../assets/img/projects/web development projects/Explore Sweden app.png";
 import projImg3 from "../assets/img/projects/web development projects/Gym locker reserve.png";
-import projImg4 from "../assets/img/projects/web development projects/Danli restaurant.png";
-import projImg5 from "../assets/img/projects/web development projects/Roll dice game.png";
-import projImg6 from "../assets/img/projects/web development projects/boulderdash.png";
+import projImg4 from "../assets/img/projects/web development projects/To do app.png";
+import projImg5 from "../assets/img/projects/web development projects/Happy coffee.png";
+import projImg6 from "../assets/img/projects/web development projects/ajax, json and jQuery.png";
 import projImg7 from "../assets/img/projects/ux projects/ea.png";
 import projImg8 from "../assets/img/projects/ux projects/macdonalds.png";
 import projImg9 from "../assets/img/projects/ux projects/presentstore.png";
@@ -26,11 +26,16 @@ import TrackVisibility from "react-on-screen";
 export const Projects = () => {
   const firstProjects = [
     {
-      title: "Happy coffee",
-      description: "With Figma, HTML, CSS & JavaScript",
+      title: "Blog, API and client",
+      description: "With API",
       imgUrl: projImg1,
-      websiteLink:
-        "https://docs.google.com/presentation/d/1LhC6hNyZTOHi5gAFJWvrNiOCmVj_aSaU-s2n8XoWF1w/edit?usp=sharing",
+      websiteLink: "https://pandaloves.github.io/Blog-API---Klient-/",
+    },
+    {
+      title: "Explore Sweden app",
+      description: "With HTML, CSS & JavaScript",
+      imgUrl: projImg2,
+      websiteLink: "https://pandaloves.github.io/Explore-Sweden-app/",
     },
     {
       title: "Gym locker reserve",
@@ -39,35 +44,30 @@ export const Projects = () => {
       websiteLink: "https://pandaloves.github.io/Gym-locker-reserve-app/",
     },
     {
-      title: "Danli restaurant",
+      title: "To do app",
       description: "With HTML, CSS & JavaScript",
       imgUrl: projImg4,
-      websiteLink: "https://pandaloves.github.io/Danli-restaurant-project/",
+      websiteLink:
+        " https://pandaloves.github.io/To-do-app/",
     },
     {
-      title: "Roll dice game",
-      description: "With HTML, CSS & JavaScript",
+      title: "Happy coffee",
+      description: "With Figma, HTML, CSS & JavaScript",
       imgUrl: projImg5,
-      websiteLink: "https://pandaloves.github.io/Roll-dice-game/",
+      websiteLink:
+        "https://docs.google.com/presentation/d/1LhC6hNyZTOHi5gAFJWvrNiOCmVj_aSaU-s2n8XoWF1w/edit?usp=sharing",
     },
     {
-      title: "PC Boulder dash game",
-      description: "With HTML, CSS & JavaScript",
+      title: "Ajax, json and jQuery",
+      description: "With API",
       imgUrl: projImg6,
-      websiteLink: "https://pandaloves.github.io/Boulder-dash/",
+      websiteLink: "https://pandaloves.github.io/ajax-json-and-jQuery/",
     },
     {
       title: "Svensk traditionell smak matsal",
       description: "With React",
       imgUrl: projImg19,
-      websiteLink:
-        "https://pandaloves.github.io/Svensk-traditionell-smak-Matsal/",
-    },
-    {
-      title: "Masro",
-      description: "With HTML, CSS & JavaScript",
-      imgUrl: projImg2,
-      websiteLink: "https://pandaloves.github.io/Masro-project/",
+      websiteLink: "https://pandaloves.github.io/Svensk-traditionell-smak-Matsal/",
     },
   ];
 
