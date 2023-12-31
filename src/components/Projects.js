@@ -39,7 +39,7 @@ export const Projects = () => {
       websiteLink: "https://pandaloves.github.io/Explore-Sweden-app/",
     },
     {
-      title: "Care about the children",
+      title: "Care about the Children",
       description: "With HTML, CSS & JavaScript",
       imgUrl: projImg20,
       websiteLink: "https://pandaloves.github.io/Care-about-the-Children/",
