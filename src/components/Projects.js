@@ -19,6 +19,7 @@ import projImg16 from "../assets/img/projects/ui projects/onloading.png";
 import projImg17 from "../assets/img/projects/ui projects/google.png";
 import projImg18 from "../assets/img/projects/ui projects/safari.png";
 import projImg19 from "../assets/img/projects/web development projects/svensk matsal.jpg";
+import projImg20 from "../assets/img/projects/web development projects/Care about the children.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
@@ -36,6 +37,12 @@ export const Projects = () => {
       description: "With HTML, CSS & JavaScript",
       imgUrl: projImg2,
       websiteLink: "https://pandaloves.github.io/Explore-Sweden-app/",
+    },
+    {
+      title: "Care about the children",
+      description: "With HTML, CSS & JavaScript",
+      imgUrl: projImg20,
+      websiteLink: "https://pandaloves.github.io/Care-about-the-Children/",
     },
     {
       title: "Gym locker reserve",
