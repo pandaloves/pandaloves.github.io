@@ -20,6 +20,7 @@ import projImg17 from "../assets/img/projects/ui projects/google.png";
 import projImg18 from "../assets/img/projects/ui projects/safari.png";
 import projImg19 from "../assets/img/projects/web development projects/svensk matsal.jpg";
 import projImg20 from "../assets/img/projects/web development projects/Care about the children.png";
+import projImg21 from "../assets/img/projects/web development projects/To-do-list app.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
@@ -43,6 +44,12 @@ export const Projects = () => {
       description: "With HTML, CSS & JavaScript",
       imgUrl: projImg20,
       websiteLink: "https://pandaloves.github.io/Care-about-the-Children/",
+    },
+    {
+      title: "To-do-list app",
+      description: "With React",
+      imgUrl: projImg21,
+      websiteLink: "https://pandaloves.github.io/To-do-list-react-app/",
     },
     {
       title: "Gym locker reserve",
