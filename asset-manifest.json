@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cf90d5a1.css",
-    "main.js": "/static/js/main.dc11bb99.js",
+    "main.js": "/static/js/main.28ae3d67.js",
     "static/js/787.7d0835b7.chunk.js": "/static/js/787.7d0835b7.chunk.js",
     "static/media/Happy coffee.png": "/static/media/Happy coffee.581b49b7aa506330ce6d.png",
     "static/media/macdonalds.png": "/static/media/macdonalds.c2644a3b1aaba594f906.png",
@@ -14,16 +14,16 @@
     "static/media/color-sharp.png": "/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/canvas.png": "/static/media/canvas.c2eac2817694820700f6.png",
-    "static/media/Blog API & Client.png": "/static/media/Blog API & Client.567e56a7b0a913882295.png",
+    "static/media/Blog API & Client.png": "/static/media/Blog API & Client.d4417eaf0af97859a9f7.png",
     "static/media/Care about the children.png": "/static/media/Care about the children.8799316abe9a416b8483.png",
     "static/media/ea.png": "/static/media/ea.22259599263e062d061f.png",
     "static/media/safari.png": "/static/media/safari.a796ab5068d2e801ab8d.png",
     "static/media/Gym locker reserve.png": "/static/media/Gym locker reserve.2729d41946b58431f60a.png",
+    "static/media/ajax, json and jQuery.png": "/static/media/ajax, json and jQuery.ffcdf05186c8639ba1e2.png",
     "static/media/google.png": "/static/media/google.c58a832b5abaf1af40b0.png",
     "static/media/svensk matsal.jpg": "/static/media/svensk matsal.dfed826473ec688f9065.jpg",
-    "static/media/To-do-list app.png": "/static/media/To-do-list app.a281b688227c787b5233.png",
+    "static/media/To-do-list React app.png": "/static/media/To-do-list React app.a281b688227c787b5233.png",
     "static/media/onloading.png": "/static/media/onloading.95121ef39815ab22ac4c.png",
-    "static/media/ajax, json and jQuery.png": "/static/media/ajax, json and jQuery.7b2bf8a9fc68f5f58715.png",
     "static/media/To do app.png": "/static/media/To do app.7488ffc1551bd3999a2d.png",
     "static/media/on-off.png": "/static/media/on-off.ae682a0cd14afb89248f.png",
     "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
@@ -40,11 +40,11 @@
     "static/media/arrow1.svg": "/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.cf90d5a1.css.map": "/static/css/main.cf90d5a1.css.map",
-    "main.dc11bb99.js.map": "/static/js/main.dc11bb99.js.map",
+    "main.28ae3d67.js.map": "/static/js/main.28ae3d67.js.map",
     "787.7d0835b7.chunk.js.map": "/static/js/787.7d0835b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf90d5a1.css",
-    "static/js/main.dc11bb99.js"
+    "static/js/main.28ae3d67.js"
   ]
 }
