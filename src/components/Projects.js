@@ -69,7 +69,7 @@ export const Projects = () => {
       description: "With Figma, HTML, CSS & JavaScript",
       imgUrl: projImg5,
       websiteLink:
-        "https://docs.google.com/presentation/d/1LhC6hNyZTOHi5gAFJWvrNiOCmVj_aSaU-s2n8XoWF1w/edit?usp=sharing",
+        "https://docs.google.com/presentation/d/188HgeOb04YkyDLs4KrKo6b6U9YoFr8eBQwTosIYU94g/edit?usp=sharing",
     },
     {
       title: "Ajax, json and jQuery",
