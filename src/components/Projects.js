@@ -21,6 +21,7 @@ import projImg18 from "../assets/img/projects/ui projects/safari.png";
 import projImg19 from "../assets/img/projects/web development projects/svensk matsal.jpg";
 import projImg20 from "../assets/img/projects/web development projects/Care about the children.png";
 import projImg21 from "../assets/img/projects/web development projects/To-do-list React app.png";
+import projImg22 from "../assets/img/projects/web development projects/MemoApp.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
@@ -28,10 +29,10 @@ import TrackVisibility from "react-on-screen";
 export const Projects = () => {
   const firstProjects = [
     {
-      title: "Blog, API and client",
-      description: "With API",
-      imgUrl: projImg1,
-      websiteLink: "https://pandaloves.github.io/Blog-API---Klient-/",
+      title: "MemoApp",
+      description: "With Angular 17,.NET 6 C# Rest API(token management)",
+      imgUrl: projImg22,
+      websiteLink: "https://docs.google.com/presentation/d/15rHfA1oiwanxa23EIJDp-ye-COP3N08KaSGIAyN4FpY/edit?usp=sharing",
     },
     {
       title: "Explore Sweden app",
@@ -52,6 +53,18 @@ export const Projects = () => {
       websiteLink: "https://pandaloves.github.io/To-do-list-react-app/",
     },
     {
+      title: "Ajax, json and jQuery",
+      description: "With API",
+      imgUrl: projImg6,
+      websiteLink: "https://pandaloves.github.io/ajax-json-and-jQuery/",
+    },
+    {
+      title: "Blog, API and client",
+      description: "With API",
+      imgUrl: projImg1,
+      websiteLink: "https://pandaloves.github.io/Blog-API---Klient-/",
+    },
+    {
       title: "Gym locker reserve",
       description: "With HTML, CSS & JavaScript",
       imgUrl: projImg3,
@@ -70,12 +83,6 @@ export const Projects = () => {
       imgUrl: projImg5,
       websiteLink:
         "https://docs.google.com/presentation/d/188HgeOb04YkyDLs4KrKo6b6U9YoFr8eBQwTosIYU94g/edit?usp=sharing",
-    },
-    {
-      title: "Ajax, json and jQuery",
-      description: "With API",
-      imgUrl: projImg6,
-      websiteLink: "https://pandaloves.github.io/ajax-json-and-jQuery/",
     },
     {
       title: "Svensk traditionell smak matsal",
