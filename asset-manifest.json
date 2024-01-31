@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cf90d5a1.css",
-    "main.js": "/static/js/main.1217c4a7.js",
+    "main.js": "/static/js/main.53e241c1.js",
     "static/js/787.7d0835b7.chunk.js": "/static/js/787.7d0835b7.chunk.js",
     "static/media/Happy coffee.png": "/static/media/Happy coffee.581b49b7aa506330ce6d.png",
     "static/media/macdonalds.png": "/static/media/macdonalds.c2644a3b1aaba594f906.png",
@@ -15,7 +15,7 @@
     "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/canvas.png": "/static/media/canvas.c2eac2817694820700f6.png",
     "static/media/Blog API & Client.png": "/static/media/Blog API & Client.d4417eaf0af97859a9f7.png",
-    "static/media/MemoApp.png": "/static/media/MemoApp.7ccdd7b6a48d72320708.png",
+    "static/media/MemoApp.png": "/static/media/MemoApp.16c76514fad2a28549f5.png",
     "static/media/Care about the children.png": "/static/media/Care about the children.8799316abe9a416b8483.png",
     "static/media/ea.png": "/static/media/ea.22259599263e062d061f.png",
     "static/media/safari.png": "/static/media/safari.a796ab5068d2e801ab8d.png",
@@ -41,11 +41,11 @@
     "static/media/arrow1.svg": "/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.cf90d5a1.css.map": "/static/css/main.cf90d5a1.css.map",
-    "main.1217c4a7.js.map": "/static/js/main.1217c4a7.js.map",
+    "main.53e241c1.js.map": "/static/js/main.53e241c1.js.map",
     "787.7d0835b7.chunk.js.map": "/static/js/787.7d0835b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf90d5a1.css",
-    "static/js/main.1217c4a7.js"
+    "static/js/main.53e241c1.js"
   ]
 }
