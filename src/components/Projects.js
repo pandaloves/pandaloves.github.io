@@ -22,6 +22,7 @@ import projImg19 from "../assets/img/projects/web development projects/svensk ma
 import projImg20 from "../assets/img/projects/web development projects/Care about the children.png";
 import projImg21 from "../assets/img/projects/web development projects/To-do-list React app.png";
 import projImg22 from "../assets/img/projects/web development projects/MemoApp.png";
+import projImg23 from "../assets/img/projects/web development projects/To-do-vue-app.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
@@ -48,9 +49,15 @@ export const Projects = () => {
     },
     {
       title: "To-do-list App",
-      description: "With React",
+      description: "With React 18",
       imgUrl: projImg21,
       websiteLink: "https://pandaloves.github.io/To-do-list-react-app/",
+    },
+    {
+      title: "To-do-list App",
+      description: "With Vue 3",
+      imgUrl: projImg23,
+      websiteLink: "https://to-do-vue-app-4399c.web.app/",
     },
     {
       title: "Ajax, json and jQuery",
@@ -86,7 +93,7 @@ export const Projects = () => {
     },
     {
       title: "Svensk traditionell smak matsal",
-      description: "With React",
+      description: "With React 18",
       imgUrl: projImg19,
       websiteLink: "https://pandaloves.github.io/Svensk-traditionell-smak-Matsal/",
     },
