@@ -49,6 +49,12 @@ export const Skills = () => {
                   <p>React</p>
                 </div>
                 <div className="item">
+                  <p>Angular</p>
+                </div>
+                <div className="item">
+                  <p>Vue</p>
+                </div>
+                <div className="item">
                   <p>Bootstrap</p>
                 </div>
                 <div className="item">
