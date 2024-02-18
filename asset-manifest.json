@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cf90d5a1.css",
-    "main.js": "/static/js/main.fcb69468.js",
+    "main.js": "/static/js/main.759187bf.js",
     "static/js/787.7d0835b7.chunk.js": "/static/js/787.7d0835b7.chunk.js",
     "static/media/Happy coffee.png": "/static/media/Happy coffee.581b49b7aa506330ce6d.png",
     "static/media/macdonalds.png": "/static/media/macdonalds.c2644a3b1aaba594f906.png",
@@ -10,6 +10,7 @@
     "static/media/Explore Sweden app.png": "/static/media/Explore Sweden app.5bf83c31e473c895670a.png",
     "static/media/vr game.png": "/static/media/vr game.ecfed2c71145badd845e.png",
     "static/media/presentstore.png": "/static/media/presentstore.1a2b8273885c8b7da475.png",
+    "static/media/CSN project.png": "/static/media/CSN project.9f5360d3212c78b61f9f.png",
     "static/media/carousel.png": "/static/media/carousel.ff5a47e7bcbc83ad9f47.png",
     "static/media/color-sharp.png": "/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
@@ -42,11 +43,11 @@
     "static/media/arrow1.svg": "/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.cf90d5a1.css.map": "/static/css/main.cf90d5a1.css.map",
-    "main.fcb69468.js.map": "/static/js/main.fcb69468.js.map",
+    "main.759187bf.js.map": "/static/js/main.759187bf.js.map",
     "787.7d0835b7.chunk.js.map": "/static/js/787.7d0835b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf90d5a1.css",
-    "static/js/main.fcb69468.js"
+    "static/js/main.759187bf.js"
   ]
 }
