@@ -23,6 +23,7 @@ import projImg20 from "../assets/img/projects/web development projects/Care abou
 import projImg21 from "../assets/img/projects/web development projects/To-do-list React app.png";
 import projImg22 from "../assets/img/projects/web development projects/MemoApp.png";
 import projImg23 from "../assets/img/projects/web development projects/To-do-vue-app.png";
+import projImg24 from "../assets/img/projects/ux projects/CSN project.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
@@ -113,6 +114,13 @@ export const Projects = () => {
       imgUrl: projImg8,
       websiteLink:
         "https://docs.google.com/presentation/d/1eugMLxaZJnFzIOHVTSmOH0_0shhyBbHLKcswVThXNEk/edit?usp=sharing",
+    },
+    {
+      title: "CSN team project",
+      description: "With Figma",
+      imgUrl: projImg24,
+      websiteLink:
+        "https://docs.google.com/presentation/d/1Zq4X3FmsAfxjOc7ivrzLpbfOt5k-SsrbnP82upXWAvY/edit?usp=sharing",
     },
     {
       title: "PresentStore",
