@@ -24,6 +24,7 @@ import projImg21 from "../assets/img/projects/web development projects/To-do-lis
 import projImg22 from "../assets/img/projects/web development projects/MemoApp.png";
 import projImg23 from "../assets/img/projects/web development projects/To-do-vue-app.png";
 import projImg24 from "../assets/img/projects/ux projects/CSN project.png";
+import projImg25 from "../assets/img/projects/web development projects/count app.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
@@ -31,10 +32,17 @@ import TrackVisibility from "react-on-screen";
 export const Projects = () => {
   const firstProjects = [
     {
+      title: "Count App",
+      description: "With React 18)",
+      imgUrl: projImg25,
+      websiteLink: "https://react-simple-count-app.netlify.app/",
+    },
+    {
       title: "MemoApp",
       description: "With Angular 17,.NET 6 C# Rest API(token management)",
       imgUrl: projImg22,
-      websiteLink: "https://docs.google.com/presentation/d/15rHfA1oiwanxa23EIJDp-ye-COP3N08KaSGIAyN4FpY/edit?usp=sharing",
+      websiteLink:
+        "https://docs.google.com/presentation/d/15rHfA1oiwanxa23EIJDp-ye-COP3N08KaSGIAyN4FpY/edit?usp=sharing",
     },
     {
       title: "Explore Sweden app",
@@ -82,8 +90,7 @@ export const Projects = () => {
       title: "To do app",
       description: "With HTML, CSS & JavaScript",
       imgUrl: projImg4,
-      websiteLink:
-        " https://pandaloves.github.io/To-do-app/",
+      websiteLink: " https://pandaloves.github.io/To-do-app/",
     },
     {
       title: "Happy coffee",
@@ -96,7 +103,8 @@ export const Projects = () => {
       title: "Svensk traditionell smak matsal",
       description: "With React 18",
       imgUrl: projImg19,
-      websiteLink: "https://pandaloves.github.io/Svensk-traditionell-smak-Matsal/",
+      websiteLink:
+        "https://pandaloves.github.io/Svensk-traditionell-smak-Matsal/",
     },
   ];
 
