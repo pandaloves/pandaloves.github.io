@@ -46,6 +46,12 @@ export const Skills = () => {
                   <p>JavaScript</p>
                 </div>
                 <div className="item">
+                  <p>TypeScript</p>
+                </div>
+                <div className="item">
+                  <p>C#</p>
+                </div>
+                <div className="item">
                   <p>React</p>
                 </div>
                 <div className="item">
@@ -55,22 +61,40 @@ export const Skills = () => {
                   <p>Vue</p>
                 </div>
                 <div className="item">
-                  <p>Bootstrap</p>
-                </div>
-                <div className="item">
                   <p>Git</p>
                 </div>
                 <div className="item">
                   <p>Github</p>
                 </div>
                 <div className="item">
+                  <p>API</p>
+                </div>
+                <div className="item">
+                  <p>Bootstrap</p>
+                </div>
+                <div className="item">
+                  <p>React Bootstrap</p>
+                </div>
+                <div className="item">
+                  <p>Tailwind CSS</p>
+                </div>
+                <div className="item">
+                  <p>Chakra UI</p>
+                </div>
+                <div className="item">
+                  <p>Material UI</p>
+                </div>
+                <div className="item">
+                  <p>Netlify</p>
+                </div>
+                <div className="item">
+                  <p>Firebase</p>
+                </div>
+                <div className="item">
                   <p>Jira</p>
                 </div>
                 <div className="item">
                   <p>Figma</p>
-                </div>
-                <div className="item">
-                  <p>API</p>
                 </div>
               </Carousel>
             </div>
