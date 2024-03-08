@@ -25,6 +25,7 @@ import projImg22 from "../assets/img/projects/web development projects/MemoApp.p
 import projImg23 from "../assets/img/projects/web development projects/To-do-vue-app.png";
 import projImg24 from "../assets/img/projects/ux projects/CSN project.png";
 import projImg25 from "../assets/img/projects/web development projects/count app.png";
+import projImg26 from "../assets/img/projects/web development projects/blog app.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
@@ -32,14 +33,21 @@ import TrackVisibility from "react-on-screen";
 export const Projects = () => {
   const firstProjects = [
     {
+      title: "Blog App",
+      description: "With React 18, JavaScript, REST API & React Bootstrap",
+      imgUrl: projImg26,
+      websiteLink: "https://a-blog-app.netlify.app/",
+    },
+    {
       title: "Count App",
-      description: "With React 18)",
+      description: "With React 18 & JavaScript",
       imgUrl: projImg25,
       websiteLink: "https://react-simple-count-app.netlify.app/",
     },
     {
       title: "MemoApp",
-      description: "With Angular 17,.NET 6 C# Rest API(token management)",
+      description:
+        "With Angular 17, TypeScript, .NET 6, C#, REST API(token management)",
       imgUrl: projImg22,
       websiteLink:
         "https://docs.google.com/presentation/d/15rHfA1oiwanxa23EIJDp-ye-COP3N08KaSGIAyN4FpY/edit?usp=sharing",
@@ -58,25 +66,25 @@ export const Projects = () => {
     },
     {
       title: "To-do-list App",
-      description: "With React 18",
+      description: "With React 18 & JavaScript",
       imgUrl: projImg21,
       websiteLink: "https://pandaloves.github.io/To-do-list-react-app/",
     },
     {
       title: "To-do-list App",
-      description: "With Vue 3",
+      description: "With Vue 3 & TypeScript",
       imgUrl: projImg23,
       websiteLink: "https://to-do-vue-app-4399c.web.app/",
     },
     {
       title: "Ajax, json and jQuery",
-      description: "With API",
+      description: "With JavaScript & REST API",
       imgUrl: projImg6,
       websiteLink: "https://pandaloves.github.io/ajax-json-and-jQuery/",
     },
     {
       title: "Blog, API and client",
-      description: "With API",
+      description: "With JavaScript & REST API",
       imgUrl: projImg1,
       websiteLink: "https://pandaloves.github.io/Blog-API---Klient-/",
     },
@@ -101,7 +109,7 @@ export const Projects = () => {
     },
     {
       title: "Svensk traditionell smak matsal",
-      description: "With React 18",
+      description: "With React 18 & JavaScript",
       imgUrl: projImg19,
       websiteLink:
         "https://pandaloves.github.io/Svensk-traditionell-smak-Matsal/",
