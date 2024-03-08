@@ -73,16 +73,16 @@ export const Skills = () => {
                   <p>Bootstrap</p>
                 </div>
                 <div className="item">
-                  <p>React Bootstrap</p>
+                  <p>React-Bootstrap</p>
                 </div>
                 <div className="item">
-                  <p>Tailwind CSS</p>
+                  <p>Tailwind-CSS</p>
                 </div>
                 <div className="item">
-                  <p>Chakra UI</p>
+                  <p>Chakra-UI</p>
                 </div>
                 <div className="item">
-                  <p>Material UI</p>
+                  <p>Material-UI</p>
                 </div>
                 <div className="item">
                   <p>Netlify</p>
