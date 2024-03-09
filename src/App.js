@@ -5,7 +5,7 @@ import { Banner } from "./components/Banner";
 import { Skills } from "./components/Skills";
 import { Projects } from "./components/Projects";
 import { Footer } from "./components/Footer";
-import { Certificate } from "./components/Certificate";
+import { Certificates } from "./components/Certificates";
 
 function App() {
   return (
@@ -14,7 +14,7 @@ function App() {
       <Banner />
       <Skills />
       <Projects />
-      <Certificate />
+      <Certificates />
       <Footer />
     </div>
   );
