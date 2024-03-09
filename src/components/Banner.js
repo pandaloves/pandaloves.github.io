@@ -1,5 +1,5 @@
-import { useState, useEffect } from "react";
 import { Container, Row, Col } from "react-bootstrap";
+import { useState, useEffect } from "react";
 import headerImg from "../assets/img/Jag.png";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
@@ -58,7 +58,6 @@ export const Banner = () => {
             <TrackVisibility>
               {({ isVisible }) => (
                 <div
-                  key={index}
                   className={
                     isVisible ? "animate__animated animate__fadeIn" : ""
                   }
@@ -68,7 +67,7 @@ export const Banner = () => {
                     {`Hi! I'm Meiying,`}{" "}
                     <span
                       className="txt-rotate"
-                      dataPeriod="1000"
+                      dataperiod="1000"
                       data-rotate='[ "Frontend Developer", "UX/UI Designer" ]'
                     >
                       <span className="wrap">{text}</span>
