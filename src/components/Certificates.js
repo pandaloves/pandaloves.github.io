@@ -5,7 +5,7 @@ import certImg2 from "../assets/img/certificates/The Web Developer Bootcamp 2022
 import certImg3 from "../assets/img/certificates/Coursera Google UX design certificate.jpg";
 import certImg4 from "../assets/img/certificates/Lärarlegitimation.jpg";
 
-export const Certificate = () => {
+export const Certificates = () => {
   const certificates = [
     {
       imgUrl: certImg1,
