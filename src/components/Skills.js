@@ -49,9 +49,6 @@ export const Skills = () => {
                   <p>TypeScript</p>
                 </div>
                 <div className="item">
-                  <p>C#</p>
-                </div>
-                <div className="item">
                   <p>React</p>
                 </div>
                 <div className="item">
