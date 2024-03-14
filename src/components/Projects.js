@@ -27,12 +27,19 @@ import projImg24 from "../assets/img/projects/ux projects/CSN project.png";
 import projImg25 from "../assets/img/projects/web development projects/count app.png";
 import projImg26 from "../assets/img/projects/web development projects/blog app.png";
 import projImg27 from "../assets/img/projects/web development projects/SW people.png";
+import projImg28 from "../assets/img/projects/web development projects/React to do.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
 
 export const Projects = () => {
   const firstProjects = [
+    {
+      title: "React Todo app",
+      description: "With React 18, JavaScript & Tailwind CSS",
+      imgUrl: projImg28,
+      websiteLink: "https://a-react-to-do-app.netlify.app/",
+    },
     {
       title: "SW people",
       description: "With React 18, JavaScript, REST API & Material UI",
