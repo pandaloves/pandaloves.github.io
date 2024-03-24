@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.7a93ea55.css",
-    "main.js": "/static/js/main.e437e049.js",
+    "main.js": "/static/js/main.7fdacb40.js",
     "static/js/787.7d0835b7.chunk.js": "/static/js/787.7d0835b7.chunk.js",
     "static/media/Happy coffee.png": "/static/media/Happy coffee.581b49b7aa506330ce6d.png",
     "static/media/macdonalds.png": "/static/media/macdonalds.c2644a3b1aaba594f906.png",
     "static/media/Jag.png": "/static/media/Jag.c306d71ca2d19fc3f521.png",
     "static/media/flixtrain.png": "/static/media/flixtrain.dfb68a5bbc3c7279ac77.png",
+    "static/media/alley restaurant.png": "/static/media/alley restaurant.8af1667ec100db871429.png",
     "static/media/Explore Sweden app.png": "/static/media/Explore Sweden app.5bf83c31e473c895670a.png",
     "static/media/vr game.png": "/static/media/vr game.ecfed2c71145badd845e.png",
     "static/media/blog app.png": "/static/media/blog app.c64323ab511e940b7351.png",
@@ -51,11 +52,11 @@
     "static/media/arrow1.svg": "/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.7a93ea55.css.map": "/static/css/main.7a93ea55.css.map",
-    "main.e437e049.js.map": "/static/js/main.e437e049.js.map",
+    "main.7fdacb40.js.map": "/static/js/main.7fdacb40.js.map",
     "787.7d0835b7.chunk.js.map": "/static/js/787.7d0835b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a93ea55.css",
-    "static/js/main.e437e049.js"
+    "static/js/main.7fdacb40.js"
   ]
 }
