@@ -28,12 +28,19 @@ import projImg25 from "../assets/img/projects/web development projects/count app
 import projImg26 from "../assets/img/projects/web development projects/blog app.png";
 import projImg27 from "../assets/img/projects/web development projects/SW people.png";
 import projImg28 from "../assets/img/projects/web development projects/React to do.png";
+import projImg29 from "../assets/img/projects/web development projects/alley restaurant.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
 
 export const Projects = () => {
   const firstProjects = [
+    {
+      title: "Alley Restaurant",
+      description: "With React 18, API, JavaScript & Chakra UI",
+      imgUrl: projImg29,
+      websiteLink: "https://alley-restaurant.netlify.app/",
+    },
     {
       title: "React Todo app",
       description: "With React 18, JavaScript & Tailwind CSS",
@@ -42,13 +49,13 @@ export const Projects = () => {
     },
     {
       title: "SW people",
-      description: "With React 18, JavaScript, REST API & Material UI",
+      description: "With React 18, JavaScript, API & Material UI",
       imgUrl: projImg27,
       websiteLink: "https://sw-people.netlify.app/",
     },
     {
       title: "Blog App",
-      description: "With React 18, JavaScript, REST API & React Bootstrap",
+      description: "With React 18, JavaScript, API & React Bootstrap",
       imgUrl: projImg26,
       websiteLink: "https://a-blog-app.netlify.app/",
     },
@@ -92,13 +99,13 @@ export const Projects = () => {
     },
     {
       title: "Ajax, json and jQuery",
-      description: "With JavaScript & REST API",
+      description: "With JavaScript & API",
       imgUrl: projImg6,
       websiteLink: "https://pandaloves.github.io/ajax-json-and-jQuery/",
     },
     {
       title: "Blog, API and client",
-      description: "With JavaScript & REST API",
+      description: "With JavaScript & API",
       imgUrl: projImg1,
       websiteLink: "https://pandaloves.github.io/Blog-API---Klient-/",
     },
