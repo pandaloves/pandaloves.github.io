@@ -51,6 +51,14 @@ export const Projects = () => {
       websiteLink: "https://alley-restaurant.netlify.app/",
     },
     {
+      title: "MemoApp",
+      description:
+        "With Angular 17, TypeScript, .NET 6, C#, REST API(token management)",
+      imgUrl: projImg22,
+      websiteLink:
+        "https://docs.google.com/presentation/d/15rHfA1oiwanxa23EIJDp-ye-COP3N08KaSGIAyN4FpY/edit?usp=sharing",
+    },
+    {
       title: "React Todo app",
       description: "With React 18, JavaScript & Tailwind CSS",
       imgUrl: projImg28,
@@ -73,14 +81,6 @@ export const Projects = () => {
       description: "With React 18 & JavaScript",
       imgUrl: projImg25,
       websiteLink: "https://react-simple-count-app.netlify.app/",
-    },
-    {
-      title: "MemoApp",
-      description:
-        "With Angular 17, TypeScript, .NET 6, C#, REST API(token management)",
-      imgUrl: projImg22,
-      websiteLink:
-        "https://docs.google.com/presentation/d/15rHfA1oiwanxa23EIJDp-ye-COP3N08KaSGIAyN4FpY/edit?usp=sharing",
     },
     {
       title: "Explore Sweden app",
