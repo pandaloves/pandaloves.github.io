@@ -29,12 +29,21 @@ import projImg26 from "../assets/img/projects/web development projects/blog app.
 import projImg27 from "../assets/img/projects/web development projects/SW people.png";
 import projImg28 from "../assets/img/projects/web development projects/React to do.png";
 import projImg29 from "../assets/img/projects/web development projects/alley restaurant.png";
+import projImg30 from "../assets/img/projects/web development projects/FashionHub.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
 
 export const Projects = () => {
   const firstProjects = [
+    {
+      title: "FashionHub",
+      description:
+        "With React, .NET 8, C#, REST API(token management), JavaScript, Tailwind CSS & Chakra UI",
+      imgUrl: projImg30,
+      websiteLink:
+        "https://docs.google.com/presentation/d/1gvbCTRBtRR9mkZO_H0AOrC5aa_ZhmfrsNOATKpAiUoI/edit?usp=sharing",
+    },
     {
       title: "Alley Restaurant",
       description: "With React 18, API, JavaScript & Chakra UI",
