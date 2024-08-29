@@ -45,18 +45,18 @@ export const Projects = () => {
         "https://docs.google.com/presentation/d/1gvbCTRBtRR9mkZO_H0AOrC5aa_ZhmfrsNOATKpAiUoI/edit?usp=sharing",
     },
     {
-      title: "Alley Restaurant",
-      description: "With React 18, API, JavaScript & Chakra UI",
-      imgUrl: projImg29,
-      websiteLink: "https://alley-restaurant.netlify.app/",
-    },
-    {
       title: "MemoApp",
       description:
         "With Angular 17, TypeScript, .NET 6, C#, REST API(token management)",
       imgUrl: projImg22,
       websiteLink:
         "https://docs.google.com/presentation/d/15rHfA1oiwanxa23EIJDp-ye-COP3N08KaSGIAyN4FpY/edit?usp=sharing",
+    },
+    {
+      title: "Alley Restaurant",
+      description: "With React 18, API, JavaScript & Chakra UI",
+      imgUrl: projImg29,
+      websiteLink: "https://alley-restaurant.netlify.app/",
     },
     {
       title: "React Todo app",
