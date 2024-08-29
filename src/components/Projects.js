@@ -46,8 +46,7 @@ export const Projects = () => {
     },
     {
       title: "MemoApp",
-      description:
-        "With Angular 18, TypeScript, .NET 8, C#, REST API(token management)",
+      description: "With Angular 18, .NET 8, REST API(token management)",
       imgUrl: projImg22,
       websiteLink:
         "https://docs.google.com/presentation/d/15rHfA1oiwanxa23EIJDp-ye-COP3N08KaSGIAyN4FpY/edit?usp=sharing",
