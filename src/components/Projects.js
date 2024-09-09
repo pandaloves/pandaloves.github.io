@@ -30,12 +30,20 @@ import projImg27 from "../assets/img/projects/web development projects/SW people
 import projImg28 from "../assets/img/projects/web development projects/React to do.png";
 import projImg29 from "../assets/img/projects/web development projects/alley restaurant.png";
 import projImg30 from "../assets/img/projects/web development projects/FashionHub.png";
+import projImg31 from "../assets/img/projects/web development projects/happy chat.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
 
 export const Projects = () => {
   const firstProjects = [
+    {
+      title: "Happy Chat",
+      description:
+        "With React(including localStorage, Logging, CSP and Sentry), JavaScript, daisyUI, and API",
+      imgUrl: projImg31,
+      websiteLink: "https://happy-chat-now.netlify.app",
+    },
     {
       title: "FashionHub",
       description:
