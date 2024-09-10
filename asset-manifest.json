@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7a93ea55.css",
-    "main.js": "/static/js/main.28e61f05.js",
+    "main.js": "/static/js/main.cdc7b5bf.js",
     "static/js/787.7d0835b7.chunk.js": "/static/js/787.7d0835b7.chunk.js",
     "static/media/Happy coffee.png": "/static/media/Happy coffee.581b49b7aa506330ce6d.png",
     "static/media/macdonalds.png": "/static/media/macdonalds.c2644a3b1aaba594f906.png",
@@ -13,22 +13,25 @@
     "static/media/blog app.png": "/static/media/blog app.c64323ab511e940b7351.png",
     "static/media/FashionHub.png": "/static/media/FashionHub.25ccc2e1465a580d3206.png",
     "static/media/happy chat.png": "/static/media/happy chat.b25e028f7aa0b80587a7.png",
+    "static/media/Coursera Google UX design certificate.jpg": "/static/media/Coursera Google UX design certificate.97781559f3b725687607.jpg",
     "static/media/presentstore.png": "/static/media/presentstore.1a2b8273885c8b7da475.png",
     "static/media/CSN project.png": "/static/media/CSN project.9f5360d3212c78b61f9f.png",
     "static/media/carousel.png": "/static/media/carousel.ff5a47e7bcbc83ad9f47.png",
     "static/media/color-sharp.png": "/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/Best intern.jpg": "/static/media/Best intern.d19b10f9e500f5af499c.jpg",
     "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
-    "static/media/Coursera Google UX design certificate.jpg": "/static/media/Coursera Google UX design certificate.9942b12878e059566af8.jpg",
+    "static/media/Full-stack intern certification.jpg": "/static/media/Full-stack intern certification.a4efe398ef347c8d1c06.jpg",
+    "static/media/Betygsutdrag.jpg": "/static/media/Betygsutdrag.a4d111141512109947f3.jpg",
+    "static/media/Javascript.jpg": "/static/media/Javascript.829cc5b6545f67cd66c4.jpg",
     "static/media/canvas.png": "/static/media/canvas.c2eac2817694820700f6.png",
+    "static/media/Lärarlegitimation.jpg": "/static/media/Lärarlegitimation.f86e7f51c0697bc3e36f.jpg",
     "static/media/SW people.png": "/static/media/SW people.0abbdee124c659c1a992.png",
+    "static/media/The Web Developer Bootcamp 2022 with Colt.jpg": "/static/media/The Web Developer Bootcamp 2022 with Colt.f786a342e43bed6407b1.jpg",
     "static/media/Blog API & Client.png": "/static/media/Blog API & Client.d4417eaf0af97859a9f7.png",
     "static/media/Care about the children.png": "/static/media/Care about the children.8799316abe9a416b8483.png",
-    "static/media/Javascript.jpg": "/static/media/Javascript.bfdfb2301297a86ce1e3.jpg",
     "static/media/ea.png": "/static/media/ea.22259599263e062d061f.png",
-    "static/media/The Web Developer Bootcamp 2022 with Colt.jpg": "/static/media/The Web Developer Bootcamp 2022 with Colt.509981761ff86a924370.jpg",
     "static/media/count app.png": "/static/media/count app.3514c371d270a592bef2.png",
     "static/media/safari.png": "/static/media/safari.a796ab5068d2e801ab8d.png",
-    "static/media/Lärarlegitimation.jpg": "/static/media/Lärarlegitimation.87b2175ac6add0873d54.jpg",
     "static/media/Gym locker reserve.png": "/static/media/Gym locker reserve.2729d41946b58431f60a.png",
     "static/media/ajax, json and jQuery.png": "/static/media/ajax, json and jQuery.ffcdf05186c8639ba1e2.png",
     "static/media/google.png": "/static/media/google.c58a832b5abaf1af40b0.png",
@@ -54,11 +57,11 @@
     "static/media/arrow1.svg": "/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.7a93ea55.css.map": "/static/css/main.7a93ea55.css.map",
-    "main.28e61f05.js.map": "/static/js/main.28e61f05.js.map",
+    "main.cdc7b5bf.js.map": "/static/js/main.cdc7b5bf.js.map",
     "787.7d0835b7.chunk.js.map": "/static/js/787.7d0835b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a93ea55.css",
-    "static/js/main.28e61f05.js"
+    "static/js/main.cdc7b5bf.js"
   ]
 }
