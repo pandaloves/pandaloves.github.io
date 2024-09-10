@@ -4,9 +4,21 @@ import certImg1 from "../assets/img/certificates/Javascript.jpg";
 import certImg2 from "../assets/img/certificates/The Web Developer Bootcamp 2022 with Colt.jpg";
 import certImg3 from "../assets/img/certificates/Coursera Google UX design certificate.jpg";
 import certImg4 from "../assets/img/certificates/Lärarlegitimation.jpg";
+import certImg5 from "../assets/img/certificates/Full-stack intern certification.jpg";
+import certImg6 from "../assets/img/certificates/Best intern.jpg";
+import certImg7 from "../assets/img/certificates/Betygsutdrag.jpg";
 
 export const Certificates = () => {
   const certificates = [
+    {
+      imgUrl: certImg5,
+    },
+    {
+      imgUrl: certImg6,
+    },
+    {
+      imgUrl: certImg7,
+    },
     {
       imgUrl: certImg1,
     },
@@ -33,7 +45,7 @@ export const Certificates = () => {
                   {certificates.map((certificate, index) => (
                     <Col size={12} sm={6} md={4} key={index}>
                       <div className="cert-imgbx">
-                        <img src={certificate.imgUrl} />
+                        <img src={certificate.imgUrl} alt="certificate" />
                       </div>
                     </Col>
                   ))}
