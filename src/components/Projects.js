@@ -49,15 +49,13 @@ export const Projects = () => {
       description:
         "With React, .NET 8, C#, REST API(token management), JavaScript, Tailwind CSS & Chakra UI",
       imgUrl: projImg30,
-      websiteLink:
-        "https://docs.google.com/presentation/d/1gvbCTRBtRR9mkZO_H0AOrC5aa_ZhmfrsNOATKpAiUoI/edit?usp=sharing",
+      websiteLink: "https://fashionhub-app.netlify.app",
     },
     {
       title: "MemoApp",
       description: "With Angular 18, .NET 8, REST API(token management)",
       imgUrl: projImg22,
-      websiteLink:
-        "https://docs.google.com/presentation/d/15rHfA1oiwanxa23EIJDp-ye-COP3N08KaSGIAyN4FpY/edit?usp=sharing",
+      websiteLink: "https://new-memo.netlify.app",
     },
     {
       title: "Alley Restaurant",
