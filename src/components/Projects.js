@@ -49,8 +49,7 @@ export const Projects = () => {
       description:
         "With React, .NET 8, C#, REST API(token management), JavaScript, Tailwind CSS & Chakra UI",
       imgUrl: projImg30,
-      websiteLink:
-        "https://docs.google.com/presentation/d/1gvbCTRBtRR9mkZO_H0AOrC5aa_ZhmfrsNOATKpAiUoI/edit?usp=sharing",
+      websiteLink: "https://fashionhub-app.netlify.app",
     },
     {
       title: "MemoApp",
