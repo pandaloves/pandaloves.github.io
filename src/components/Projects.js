@@ -1,11 +1,9 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
-import projImg1 from "../assets/img/projects/web development projects/Blog API & Client.png";
 import projImg2 from "../assets/img/projects/web development projects/Explore Sweden app.png";
 import projImg3 from "../assets/img/projects/web development projects/Gym locker reserve.png";
 import projImg4 from "../assets/img/projects/web development projects/To do app.png";
 import projImg5 from "../assets/img/projects/web development projects/Happy coffee.png";
-import projImg6 from "../assets/img/projects/web development projects/ajax, json and jQuery.png";
 import projImg7 from "../assets/img/projects/ux projects/ea.png";
 import projImg8 from "../assets/img/projects/ux projects/macdonalds.png";
 import projImg9 from "../assets/img/projects/ux projects/presentstore.png";
@@ -110,18 +108,6 @@ export const Projects = () => {
       description: "With Vue 3 & TypeScript",
       imgUrl: projImg23,
       websiteLink: "https://to-do-vue-app-4399c.web.app/",
-    },
-    {
-      title: "Ajax, json and jQuery",
-      description: "With JavaScript & API",
-      imgUrl: projImg6,
-      websiteLink: "https://pandaloves.github.io/ajax-json-and-jQuery/",
-    },
-    {
-      title: "Blog, API and client",
-      description: "With JavaScript & API",
-      imgUrl: projImg1,
-      websiteLink: "https://pandaloves.github.io/Blog-API---Klient-/",
     },
     {
       title: "Gym locker reserve",
