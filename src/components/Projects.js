@@ -18,7 +18,6 @@ import projImg17 from "../assets/img/projects/ui projects/google.png";
 import projImg18 from "../assets/img/projects/ui projects/safari.png";
 import projImg19 from "../assets/img/projects/web development projects/svensk matsal.jpg";
 import projImg20 from "../assets/img/projects/web development projects/Care about the children.png";
-import projImg21 from "../assets/img/projects/web development projects/To-do-list React app.png";
 import projImg22 from "../assets/img/projects/web development projects/MemoApp.png";
 import projImg23 from "../assets/img/projects/web development projects/To-do-vue-app.png";
 import projImg24 from "../assets/img/projects/ux projects/CSN project.png";
@@ -57,31 +56,31 @@ export const Projects = () => {
     },
     {
       title: "Alley Restaurant",
-      description: "With React 18, API, JavaScript & Chakra UI",
+      description: "With React, API, JavaScript & Chakra UI",
       imgUrl: projImg29,
       websiteLink: "https://alley-restaurant.netlify.app/",
     },
     {
       title: "React Todo app",
-      description: "With React 18, JavaScript & Tailwind CSS",
+      description: "With React, JavaScript & Tailwind CSS",
       imgUrl: projImg28,
       websiteLink: "https://a-react-to-do-app.netlify.app/",
     },
     {
       title: "SW people",
-      description: "With React 18, JavaScript, API & Material UI",
+      description: "With React, JavaScript, API & Material UI",
       imgUrl: projImg27,
       websiteLink: "https://sw-people.netlify.app/",
     },
     {
       title: "Blog App",
-      description: "With React 18, JavaScript, API & React Bootstrap",
+      description: "With React, JavaScript, API & React Bootstrap",
       imgUrl: projImg26,
       websiteLink: "https://a-blog-app.netlify.app/",
     },
     {
       title: "Count App",
-      description: "With React 18 & JavaScript",
+      description: "With React & JavaScript",
       imgUrl: projImg25,
       websiteLink: "https://react-simple-count-app.netlify.app/",
     },
@@ -96,12 +95,6 @@ export const Projects = () => {
       description: "With HTML, CSS & JavaScript",
       imgUrl: projImg20,
       websiteLink: "https://pandaloves.github.io/Care-about-the-Children/",
-    },
-    {
-      title: "To-do-list App",
-      description: "With React 18 & JavaScript",
-      imgUrl: projImg21,
-      websiteLink: "https://pandaloves.github.io/To-do-list-react-app/",
     },
     {
       title: "To-do-list App",
@@ -130,7 +123,7 @@ export const Projects = () => {
     },
     {
       title: "Svensk traditionell smak matsal",
-      description: "With React 18 & JavaScript",
+      description: "With React & JavaScript",
       imgUrl: projImg19,
       websiteLink:
         "https://pandaloves.github.io/Svensk-traditionell-smak-Matsal/",
