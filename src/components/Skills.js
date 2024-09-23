@@ -67,7 +67,13 @@ export const Skills = () => {
                   <p>Github</p>
                 </div>
                 <div className="item">
-                  <p>API</p>
+                  <p>REST API</p>
+                </div>
+                <div className="item">
+                  <p>C#</p>
+                </div>
+                <div className="item">
+                  <p>.NET 8</p>
                 </div>
                 <div className="item">
                   <p>Bootstrap</p>
@@ -95,6 +101,9 @@ export const Skills = () => {
                 </div>
                 <div className="item">
                   <p>Figma</p>
+                </div>
+                <div className="item">
+                  <p>Cypress</p>
                 </div>
               </Carousel>
             </div>
