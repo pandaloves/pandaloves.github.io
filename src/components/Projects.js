@@ -28,6 +28,7 @@ import projImg28 from "../assets/img/projects/web development projects/React to 
 import projImg29 from "../assets/img/projects/web development projects/alley restaurant.png";
 import projImg30 from "../assets/img/projects/web development projects/FashionHub.png";
 import projImg31 from "../assets/img/projects/web development projects/happy chat.png";
+import projImg32 from "../assets/img/projects/web development projects/teaShop.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
@@ -37,86 +38,93 @@ export const Projects = () => {
     {
       title: "Happy Chat",
       description:
-        "With React(including localStorage, Logging, CSP and Sentry), JavaScript, daisyUI, and API",
+        "Frontend with React(including localStorage, Logging, CSP and Sentry), JavaScript, daisyUI & API",
       imgUrl: projImg31,
       websiteLink: "https://happy-chat-now.netlify.app",
     },
     {
       title: "FashionHub",
       description:
-        "With React, .NET 8, C#, REST API(token management), JavaScript, Tailwind CSS & Chakra UI",
+        "Fullstack with React, .NET 8, C#, REST API(token management), Azure, JavaScript, Tailwind CSS & Chakra UI",
       imgUrl: projImg30,
       websiteLink: "https://fashionhub-app.netlify.app",
     },
     {
+      title: "Tea Shop",
+      description:
+        "Fullstack with React, Node.js, Express, Azure, Storybook & NPM package",
+      imgUrl: projImg32,
+      websiteLink: "https://tea-shop-jy7zv2huz-meiying-hus-projects.vercel.app/",
+    },
+    {
       title: "MemoApp",
-      description: "With Angular 18, .NET 8, REST API(token management)",
+      description: "Fullstack with Angular 18, .NET 8, REST API(token management) & Azure",
       imgUrl: projImg22,
       websiteLink: "https://new-memo.netlify.app",
     },
     {
       title: "Alley Restaurant",
-      description: "With React, API, JavaScript & Chakra UI",
+      description: "Frontend with React, API, JavaScript & Chakra UI",
       imgUrl: projImg29,
       websiteLink: "https://alley-restaurant.netlify.app/",
     },
     {
       title: "React Todo app",
-      description: "With React, JavaScript & Tailwind CSS",
+      description: "Frontend with React, JavaScript & Tailwind CSS",
       imgUrl: projImg28,
       websiteLink: "https://a-react-to-do-app.netlify.app/",
     },
     {
       title: "SW people",
-      description: "With React, JavaScript, API & Material UI",
+      description: "Frontend with React, JavaScript, API & Material UI",
       imgUrl: projImg27,
       websiteLink: "https://sw-people.netlify.app/",
     },
     {
       title: "Blog App",
-      description: "With React, JavaScript, API & React Bootstrap",
+      description: "Frontend with React, JavaScript, API & React Bootstrap",
       imgUrl: projImg26,
       websiteLink: "https://a-blog-app.netlify.app/",
     },
     {
       title: "Count App",
-      description: "With React & JavaScript",
+      description: "Frontend with React & JavaScript",
       imgUrl: projImg25,
       websiteLink: "https://react-simple-count-app.netlify.app/",
     },
     {
       title: "Explore Sweden app",
-      description: "With HTML, CSS & JavaScript",
+      description: "Frontend with HTML, CSS & JavaScript",
       imgUrl: projImg2,
       websiteLink: "https://pandaloves.github.io/Explore-Sweden-app/",
     },
     {
       title: "Care about the Children",
-      description: "With HTML, CSS & JavaScript",
+      description: "Frontend with HTML, CSS & JavaScript",
       imgUrl: projImg20,
       websiteLink: "https://pandaloves.github.io/Care-about-the-Children/",
     },
     {
       title: "To-do-list App",
-      description: "With Vue 3 & TypeScript",
+      description: "Frontend with Vue 3 & TypeScript",
       imgUrl: projImg23,
       websiteLink: "https://to-do-vue-app-4399c.web.app/",
     },
     {
       title: "Gym locker reserve",
-      description: "With HTML, CSS & JavaScript",
+      description: "Frontend with HTML, CSS & JavaScript",
       imgUrl: projImg3,
       websiteLink: "https://pandaloves.github.io/Gym-locker-reserve-app/",
     },
     {
       title: "To do app",
-      description: "With HTML, CSS & JavaScript",
+      description: "Frontend with HTML, CSS & JavaScript",
       imgUrl: projImg4,
       websiteLink: " https://pandaloves.github.io/To-do-app/",
     },
     {
       title: "Happy coffee",
-      description: "With Figma, HTML, CSS & JavaScript",
+      description: "Frontend & UI design with Figma, HTML, CSS & JavaScript",
       imgUrl: projImg5,
       websiteLink:
         "https://docs.google.com/presentation/d/188HgeOb04YkyDLs4KrKo6b6U9YoFr8eBQwTosIYU94g/edit?usp=sharing",

@@ -76,6 +76,18 @@ export const Skills = () => {
                   <p>.NET 8</p>
                 </div>
                 <div className="item">
+                  <p>Node.js</p>
+                </div>
+                <div className="item">
+                  <p>Storybook</p>
+                </div>
+                <div className="item">
+                  <p>Sentry</p>
+                </div>
+                <div className="item">
+                  <p>Azure</p>
+                </div>
+                <div className="item">
                   <p>Bootstrap</p>
                 </div>
                 <div className="item">
@@ -92,6 +104,9 @@ export const Skills = () => {
                 </div>
                 <div className="item">
                   <p>Netlify</p>
+                </div>
+                <div className="item">
+                  <p>Vercel</p>
                 </div>
                 <div className="item">
                   <p>Firebase</p>
