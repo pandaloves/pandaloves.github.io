@@ -16,7 +16,6 @@ import projImg15 from "../assets/img/projects/ui projects/on-off.png";
 import projImg16 from "../assets/img/projects/ui projects/onloading.png";
 import projImg17 from "../assets/img/projects/ui projects/google.png";
 import projImg18 from "../assets/img/projects/ui projects/safari.png";
-import projImg19 from "../assets/img/projects/web development projects/svensk matsal.jpg";
 import projImg20 from "../assets/img/projects/web development projects/Care about the children.png";
 import projImg22 from "../assets/img/projects/web development projects/MemoApp.png";
 import projImg23 from "../assets/img/projects/web development projects/To-do-vue-app.png";
@@ -128,13 +127,6 @@ export const Projects = () => {
       imgUrl: projImg5,
       websiteLink:
         "https://docs.google.com/presentation/d/188HgeOb04YkyDLs4KrKo6b6U9YoFr8eBQwTosIYU94g/edit?usp=sharing",
-    },
-    {
-      title: "Svensk traditionell smak matsal",
-      description: "With React & JavaScript",
-      imgUrl: projImg19,
-      websiteLink:
-        "https://pandaloves.github.io/Svensk-traditionell-smak-Matsal/",
     },
   ];
 
