@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7a93ea55.css",
-    "main.js": "/static/js/main.8910700b.js",
+    "main.js": "/static/js/main.4cfa46ae.js",
     "static/js/787.7d0835b7.chunk.js": "/static/js/787.7d0835b7.chunk.js",
     "static/media/Happy coffee.png": "/static/media/Happy coffee.581b49b7aa506330ce6d.png",
     "static/media/macdonalds.png": "/static/media/macdonalds.c2644a3b1aaba594f906.png",
@@ -28,7 +28,6 @@
     "static/media/Lärarlegitimation.jpg": "/static/media/Lärarlegitimation.f86e7f51c0697bc3e36f.jpg",
     "static/media/SW people.png": "/static/media/SW people.0abbdee124c659c1a992.png",
     "static/media/The Web Developer Bootcamp 2022 with Colt.jpg": "/static/media/The Web Developer Bootcamp 2022 with Colt.f786a342e43bed6407b1.jpg",
-    "static/media/Betygsutdrag.jpg": "/static/media/Betygsutdrag.b90fc40d46ff0fd09ddb.jpg",
     "static/media/Care about the children.png": "/static/media/Care about the children.8799316abe9a416b8483.png",
     "static/media/ea.png": "/static/media/ea.22259599263e062d061f.png",
     "static/media/count app.png": "/static/media/count app.3514c371d270a592bef2.png",
@@ -55,11 +54,11 @@
     "static/media/arrow1.svg": "/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.7a93ea55.css.map": "/static/css/main.7a93ea55.css.map",
-    "main.8910700b.js.map": "/static/js/main.8910700b.js.map",
+    "main.4cfa46ae.js.map": "/static/js/main.4cfa46ae.js.map",
     "787.7d0835b7.chunk.js.map": "/static/js/787.7d0835b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a93ea55.css",
-    "static/js/main.8910700b.js"
+    "static/js/main.4cfa46ae.js"
   ]
 }
