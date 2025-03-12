@@ -6,7 +6,6 @@ import certImg3 from "../assets/img/certificates/Coursera Google UX design certi
 import certImg4 from "../assets/img/certificates/Lärarlegitimation.jpg";
 import certImg5 from "../assets/img/certificates/Full-stack intern certification.jpg";
 import certImg6 from "../assets/img/certificates/Best intern.jpg";
-import certImg7 from "../assets/img/certificates/Betygsutdrag.jpg";
 
 export const Certificates = () => {
   const certificates = [
@@ -15,9 +14,6 @@ export const Certificates = () => {
     },
     {
       imgUrl: certImg6,
-    },
-    {
-      imgUrl: certImg7,
     },
     {
       imgUrl: certImg1,
