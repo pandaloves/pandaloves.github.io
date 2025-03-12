@@ -15,7 +15,6 @@ import projImg14 from "../assets/img/projects/ui projects/carousel.png";
 import projImg15 from "../assets/img/projects/ui projects/on-off.png";
 import projImg16 from "../assets/img/projects/ui projects/onloading.png";
 import projImg17 from "../assets/img/projects/ui projects/google.png";
-import projImg18 from "../assets/img/projects/ui projects/safari.png";
 import projImg20 from "../assets/img/projects/web development projects/Care about the children.png";
 import projImg22 from "../assets/img/projects/web development projects/MemoApp.png";
 import projImg23 from "../assets/img/projects/web development projects/To-do-vue-app.png";
@@ -29,6 +28,9 @@ import projImg30 from "../assets/img/projects/web development projects/FashionHu
 import projImg31 from "../assets/img/projects/web development projects/happy chat.png";
 import projImg32 from "../assets/img/projects/web development projects/teaShop.png";
 import projImg33 from "../assets/img/projects/web development projects/Sushi app.png";
+import projImg34 from "../assets/img/projects/ui projects/EA.png";
+import projImg35 from "../assets/img/projects/ui projects/PresentStore.png";
+import projImg36 from "../assets/img/projects/ui projects/McDonald’s.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
@@ -199,6 +201,27 @@ export const Projects = () => {
 
   const thirdProjects = [
     {
+      title: "McDonald’s",
+      description: "With Figma",
+      imgUrl: projImg36,
+      websiteLink:
+        "https://www.figma.com/proto/4aLpPvpemVhAe3I4NJiLnV/Hi-fi-prototyp-2-Efter-omdesignen?node-id=1-2&starting-point-node-id=1%3A2&t=IIbJmbGOwl44tMA4-1",
+    },
+    {
+      title: "EA",
+      description: "With Figma",
+      imgUrl: projImg34,
+      websiteLink:
+        "https://www.figma.com/proto/pV388r5hrwpHJLATuzlIHM/project-3-hi-fi-prototype?node-id=1-206&starting-point-node-id=1%3A206&t=0vM7L1u14kRVj9oT-1",
+    },
+    {
+      title: "PresentStore",
+      description: "With Figma",
+      imgUrl: projImg35,
+      websiteLink:
+        "https://www.figma.com/proto/Tf159KQQ4VQ37Mlrg32SIQ/Project-1-Hi-fi-prototype?node-id=1-228&starting-point-node-id=1%3A228&t=ggEybApQZxjtDbev-1",
+    },
+    {
       title: "A homepage with a carousel",
       description: "With Figma",
       imgUrl: projImg14,
@@ -226,13 +249,7 @@ export const Projects = () => {
       websiteLink:
         "https://my.spline.design/googleicon-8d3f8022e88c2cd2f9e0cde17fc25a0b/",
     },
-    {
-      title: "Safari icon",
-      description: "With Spline",
-      imgUrl: projImg18,
-      websiteLink:
-        "https://my.spline.design/asafariicon-004d9a132bae2a432f015907e00bb3a0/",
-    },
+  
   ];
 
   return (
