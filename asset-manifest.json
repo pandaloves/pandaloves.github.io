@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7a93ea55.css",
-    "main.js": "/static/js/main.bfc39fbd.js",
+    "main.js": "/static/js/main.7efe8958.js",
     "static/js/787.7d0835b7.chunk.js": "/static/js/787.7d0835b7.chunk.js",
     "static/media/Happy coffee.png": "/static/media/Happy coffee.581b49b7aa506330ce6d.png",
     "static/media/macdonalds.png": "/static/media/macdonalds.c2644a3b1aaba594f906.png",
@@ -22,7 +22,9 @@
     "static/media/color-sharp.png": "/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/Best intern.jpg": "/static/media/Best intern.d19b10f9e500f5af499c.jpg",
     "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/EA.png": "/static/media/EA.767bed8b5b6985f5cef8.png",
     "static/media/Full-stack intern certification.jpg": "/static/media/Full-stack intern certification.a4efe398ef347c8d1c06.jpg",
+    "static/media/PresentStore.png": "/static/media/PresentStore.e114ab348437cf0cd496.png",
     "static/media/Javascript.jpg": "/static/media/Javascript.829cc5b6545f67cd66c4.jpg",
     "static/media/canvas.png": "/static/media/canvas.c2eac2817694820700f6.png",
     "static/media/Lärarlegitimation.jpg": "/static/media/Lärarlegitimation.f86e7f51c0697bc3e36f.jpg",
@@ -30,8 +32,8 @@
     "static/media/The Web Developer Bootcamp 2022 with Colt.jpg": "/static/media/The Web Developer Bootcamp 2022 with Colt.f786a342e43bed6407b1.jpg",
     "static/media/Care about the children.png": "/static/media/Care about the children.8799316abe9a416b8483.png",
     "static/media/ea.png": "/static/media/ea.22259599263e062d061f.png",
+    "static/media/McDonald’s.png": "/static/media/McDonald’s.ee03b12348b2ad42f419.png",
     "static/media/count app.png": "/static/media/count app.3514c371d270a592bef2.png",
-    "static/media/safari.png": "/static/media/safari.a796ab5068d2e801ab8d.png",
     "static/media/Gym locker reserve.png": "/static/media/Gym locker reserve.2729d41946b58431f60a.png",
     "static/media/google.png": "/static/media/google.c58a832b5abaf1af40b0.png",
     "static/media/React to do.png": "/static/media/React to do.76ce6082be54687b2ce8.png",
@@ -54,11 +56,11 @@
     "static/media/arrow1.svg": "/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.7a93ea55.css.map": "/static/css/main.7a93ea55.css.map",
-    "main.bfc39fbd.js.map": "/static/js/main.bfc39fbd.js.map",
+    "main.7efe8958.js.map": "/static/js/main.7efe8958.js.map",
     "787.7d0835b7.chunk.js.map": "/static/js/787.7d0835b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a93ea55.css",
-    "static/js/main.bfc39fbd.js"
+    "static/js/main.7efe8958.js"
   ]
 }
