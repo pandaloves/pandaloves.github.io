@@ -115,10 +115,10 @@ export const Skills = () => {
                   <p>Jira</p>
                 </div>
                 <div className="item">
-                  <p>Figma</p>
+                  <p>Cypress</p>
                 </div>
                 <div className="item">
-                  <p>Cypress</p>
+                  <p>Figma</p>
                 </div>
               </Carousel>
             </div>
