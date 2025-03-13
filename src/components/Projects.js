@@ -59,7 +59,7 @@ export const Projects = () => {
       websiteLink: "https://fashionhub-app.netlify.app",
     },
     {
-      title: "Tea Shop",
+      title: "Tea Shop (Team project)",
       description:
         "Fullstack with React, Node.js, Express, Azure, Storybook & NPM package",
       imgUrl: projImg32,
