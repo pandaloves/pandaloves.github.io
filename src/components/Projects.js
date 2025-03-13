@@ -132,7 +132,7 @@ export const Projects = () => {
       websiteLink: " https://pandaloves.github.io/To-do-app/",
     },
     {
-      title: "Happy coffee",
+      title: "Happy coffee (Team project)",
       description: "Frontend & UI design with Figma, HTML, CSS & JavaScript",
       imgUrl: projImg5,
       websiteLink:
