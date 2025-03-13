@@ -85,7 +85,10 @@ export const Skills = () => {
                   <p>Sentry</p>
                 </div>
                 <div className="item">
-                  <p>Azure</p>
+                  <p>Azure SQL</p>
+                </div>
+                <div className="item">
+                  <p>i18next</p>
                 </div>
                 <div className="item">
                   <p>Bootstrap</p>
