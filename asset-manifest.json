@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.7a93ea55.css",
-    "main.js": "/static/js/main.08ca1fe1.js",
+    "main.js": "/static/js/main.c24ba5bf.js",
     "static/js/787.7d0835b7.chunk.js": "/static/js/787.7d0835b7.chunk.js",
     "static/media/Happy coffee.png": "/static/media/Happy coffee.581b49b7aa506330ce6d.png",
     "static/media/macdonalds.png": "/static/media/macdonalds.c2644a3b1aaba594f906.png",
     "static/media/Jag.png": "/static/media/Jag.c306d71ca2d19fc3f521.png",
     "static/media/flixtrain.png": "/static/media/flixtrain.dfb68a5bbc3c7279ac77.png",
-    "static/media/Sushi app.png": "/static/media/Sushi app.24693ee82b955c159f4e.png",
     "static/media/alley restaurant.png": "/static/media/alley restaurant.8af1667ec100db871429.png",
+    "static/media/Sushi app.png": "/static/media/Sushi app.063c3e3c72873c9ac58f.png",
     "static/media/Explore Sweden app.png": "/static/media/Explore Sweden app.5bf83c31e473c895670a.png",
     "static/media/teaShop.png": "/static/media/teaShop.1aa061f59d14379762f3.png",
     "static/media/vr game.png": "/static/media/vr game.ecfed2c71145badd845e.png",
@@ -56,11 +56,11 @@
     "static/media/arrow1.svg": "/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.7a93ea55.css.map": "/static/css/main.7a93ea55.css.map",
-    "main.08ca1fe1.js.map": "/static/js/main.08ca1fe1.js.map",
+    "main.c24ba5bf.js.map": "/static/js/main.c24ba5bf.js.map",
     "787.7d0835b7.chunk.js.map": "/static/js/787.7d0835b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a93ea55.css",
-    "static/js/main.08ca1fe1.js"
+    "static/js/main.c24ba5bf.js"
   ]
 }
