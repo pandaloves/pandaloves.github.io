@@ -1,9 +1,11 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
-import projImg2 from "../assets/img/projects/web development projects/Explore Sweden app.png";
-import projImg3 from "../assets/img/projects/web development projects/Gym locker reserve.png";
-import projImg4 from "../assets/img/projects/web development projects/To do app.png";
-import projImg5 from "../assets/img/projects/web development projects/Happy coffee.png";
+import projImg1 from "../assets/img/projects/web development projects/Sushi app.png";
+import projImg2 from "../assets/img/projects/web development projects/happy chat.png";
+import projImg3 from "../assets/img/projects/web development projects/FashionHub.png";
+import projImg4 from "../assets/img/projects/web development projects/teaShop.png";
+import projImg5 from "../assets/img/projects/web development projects/MemoApp.png";
+import projImg6 from "../assets/img/projects/web development projects/alley restaurant.png";
 import projImg7 from "../assets/img/projects/ux projects/ea.png";
 import projImg8 from "../assets/img/projects/ux projects/macdonalds.png";
 import projImg9 from "../assets/img/projects/ux projects/presentstore.png";
@@ -15,22 +17,11 @@ import projImg14 from "../assets/img/projects/ui projects/carousel.png";
 import projImg15 from "../assets/img/projects/ui projects/on-off.png";
 import projImg16 from "../assets/img/projects/ui projects/onloading.png";
 import projImg17 from "../assets/img/projects/ui projects/google.png";
-import projImg20 from "../assets/img/projects/web development projects/Care about the children.png";
-import projImg22 from "../assets/img/projects/web development projects/MemoApp.png";
-import projImg23 from "../assets/img/projects/web development projects/To-do-vue-app.png";
 import projImg24 from "../assets/img/projects/ux projects/CSN project.png";
-import projImg25 from "../assets/img/projects/web development projects/count app.png";
-import projImg26 from "../assets/img/projects/web development projects/blog app.png";
-import projImg27 from "../assets/img/projects/web development projects/SW people.png";
-import projImg28 from "../assets/img/projects/web development projects/React to do.png";
-import projImg29 from "../assets/img/projects/web development projects/alley restaurant.png";
-import projImg30 from "../assets/img/projects/web development projects/FashionHub.png";
-import projImg31 from "../assets/img/projects/web development projects/happy chat.png";
-import projImg32 from "../assets/img/projects/web development projects/teaShop.png";
-import projImg33 from "../assets/img/projects/web development projects/Sushi app.png";
 import projImg34 from "../assets/img/projects/ui projects/EA.png";
 import projImg35 from "../assets/img/projects/ui projects/PresentStore.png";
 import projImg36 from "../assets/img/projects/ui projects/McDonald’s.png";
+import projImg37 from "../assets/img/projects/ui projects/sushi.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
@@ -40,107 +31,69 @@ export const Projects = () => {
     {
       title: "Sushi App",
       description:
-      "Fullstack with Next.js, .NET 8, C#, Azure, TypeScript, Material UI",
-      imgUrl: projImg33,
+      "With Next.js, TypeScript and Material UI",
+      imgUrl: projImg1,
       websiteLink: "https://sushi-order-app.netlify.app",
     },
     {
       title: "Happy Chat",
       description:
-      "Frontend with React(including localStorage, Logging, CSP and Sentry), JavaScript, daisyUI & API",
-      imgUrl: projImg31,
+      "With React(including localStorage, Logging, CSP and Sentry), JavaScript and daisyUI",
+      imgUrl: projImg2,
       websiteLink: "https://happy-chat-now.netlify.app"
     },
     {
       title: "FashionHub",
       description:
-        "Fullstack with React, .NET 8, C#, REST API(token management), Azure, JavaScript, Tailwind CSS & Chakra UI",
-      imgUrl: projImg30,
+        "With React, JavaScript, Tailwind CSS and Chakra UI",
+      imgUrl: projImg3,
       websiteLink: "https://fashionhub-app.netlify.app",
-    },
-    {
-      title: "Tea Shop (Team project)",
-      description:
-        "Fullstack with React, Node.js, Express, Azure, Storybook & NPM package",
-      imgUrl: projImg32,
-      websiteLink: "https://tea-shop-jy7zv2huz-meiying-hus-projects.vercel.app/",
     },
     {
       title: "MemoApp",
       description: "Fullstack with Angular 18, .NET 8, REST API(token management) & Azure",
-      imgUrl: projImg22,
+      imgUrl: projImg5,
       websiteLink: "https://new-memo.netlify.app",
     },
     {
       title: "Alley Restaurant",
       description: "Frontend with React, API, JavaScript & Chakra UI",
-      imgUrl: projImg29,
+      imgUrl: projImg6,
       websiteLink: "https://alley-restaurant.netlify.app/",
-    },
-    {
-      title: "React Todo app",
-      description: "Frontend with React, JavaScript & Tailwind CSS",
-      imgUrl: projImg28,
-      websiteLink: "https://a-react-to-do-app.netlify.app/",
-    },
-    {
-      title: "SW people",
-      description: "Frontend with React, JavaScript, API & Material UI",
-      imgUrl: projImg27,
-      websiteLink: "https://sw-people.netlify.app/",
-    },
-    {
-      title: "Blog App",
-      description: "Frontend with React, JavaScript, API & React Bootstrap",
-      imgUrl: projImg26,
-      websiteLink: "https://a-blog-app.netlify.app/",
-    },
-    {
-      title: "Count App",
-      description: "Frontend with React & JavaScript",
-      imgUrl: projImg25,
-      websiteLink: "https://react-simple-count-app.netlify.app/",
-    },
-    {
-      title: "Explore Sweden app",
-      description: "Frontend with HTML, CSS & JavaScript",
-      imgUrl: projImg2,
-      websiteLink: "https://pandaloves.github.io/Explore-Sweden-app/",
-    },
-    {
-      title: "Care about the Children",
-      description: "Frontend with HTML, CSS & JavaScript",
-      imgUrl: projImg20,
-      websiteLink: "https://pandaloves.github.io/Care-about-the-Children/",
-    },
-    {
-      title: "To-do-list App",
-      description: "Frontend with Vue 3 & TypeScript",
-      imgUrl: projImg23,
-      websiteLink: "https://to-do-vue-app-4399c.web.app/",
-    },
-    {
-      title: "Gym locker reserve",
-      description: "Frontend with HTML, CSS & JavaScript",
-      imgUrl: projImg3,
-      websiteLink: "https://pandaloves.github.io/Gym-locker-reserve-app/",
-    },
-    {
-      title: "To do app",
-      description: "Frontend with HTML, CSS & JavaScript",
-      imgUrl: projImg4,
-      websiteLink: " https://pandaloves.github.io/To-do-app/",
-    },
-    {
-      title: "Happy coffee (Team project)",
-      description: "Frontend & UI design with Figma, HTML, CSS & JavaScript",
-      imgUrl: projImg5,
-      websiteLink:
-        "https://docs.google.com/presentation/d/188HgeOb04YkyDLs4KrKo6b6U9YoFr8eBQwTosIYU94g/edit?usp=sharing",
     },
   ];
 
   const secondProjects = [
+    {
+      title: "Sushi App",
+      description:
+      "Fullstack with Next.js, .NET 8, C#, Azure, TypeScript, Material UI",
+      imgUrl: projImg1,
+      websiteLink: "https://github.com/pandaloves/sushiOrderAPI",
+    },
+    {
+      title: "FashionHub",
+      description:
+        "Fullstack with React, .NET 8, C#, REST API(token management), Azure, JavaScript, Tailwind CSS & Chakra UI",
+      imgUrl: projImg3,
+      websiteLink: "https://github.com/pandaloves/fashionAPI",
+    },
+    {
+      title: "Tea Shop (Team project)",
+      description:
+        "Fullstack with React, Node.js, Express, Azure, Storybook & NPM package",
+      imgUrl: projImg4,
+      websiteLink: "https://github.com/pandaloves/tea-api",
+    },
+    {
+      title: "MemoApp",
+      description: "Fullstack with Angular 18, .NET 8, REST API(token management) & Azure",
+      imgUrl: projImg5,
+      websiteLink: "https://github.com/pandaloves/crud-dotnet-api",
+    },
+  ];
+
+  const thirdProjects = [
     {
       title: "EA",
       description: "With Figma",
@@ -199,7 +152,14 @@ export const Projects = () => {
     },
   ];
 
-  const thirdProjects = [
+  const fourthProjects = [
+    {
+      title: "Sushi",
+      description: "With Figma",
+      imgUrl: projImg37,
+      websiteLink:
+        "https://www.figma.com/proto/clh01LjUl0sGqE8C5nb8Dv/hi-fi-on-smaller-screens?node-id=18-602&p=f&t=JJ8qzR17Xd4BawJU-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1",
+    },
     {
       title: "McDonald’s",
       description: "With Figma",
@@ -273,13 +233,16 @@ export const Projects = () => {
                       id="pills-tab"
                     >
                       <Nav.Item>
-                        <Nav.Link eventKey="first">FD</Nav.Link>
+                        <Nav.Link eventKey="first">Frontend</Nav.Link>
                       </Nav.Item>
                       <Nav.Item>
-                        <Nav.Link eventKey="second">UX</Nav.Link>
+                        <Nav.Link eventKey="second">Backend</Nav.Link>
                       </Nav.Item>
                       <Nav.Item>
-                        <Nav.Link eventKey="third">UI</Nav.Link>
+                        <Nav.Link eventKey="third">UX</Nav.Link>
+                      </Nav.Item>
+                      <Nav.Item>
+                        <Nav.Link eventKey="fourth">UI</Nav.Link>
                       </Nav.Item>
                     </Nav>
                     <Tab.Content
@@ -305,6 +268,13 @@ export const Projects = () => {
                       <Tab.Pane eventKey="third">
                         <Row>
                           {thirdProjects.map((project, index) => {
+                            return <ProjectCard key={index} {...project} />;
+                          })}
+                        </Row>
+                      </Tab.Pane>
+                      <Tab.Pane eventKey="fourth">
+                        <Row>
+                          {fourthProjects.map((project, index) => {
                             return <ProjectCard key={index} {...project} />;
                           })}
                         </Row>

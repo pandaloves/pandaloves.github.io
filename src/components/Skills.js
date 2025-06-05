@@ -1,7 +1,5 @@
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
-import arrow1 from "../assets/img/arrow1.svg";
-import arrow2 from "../assets/img/arrow2.svg";
 import colorSharp from "../assets/img/color-sharp.png";
 
 export const Skills = () => {
@@ -58,9 +56,6 @@ export const Skills = () => {
                   <p>Angular</p>
                 </div>
                 <div className="item">
-                  <p>Vue</p>
-                </div>
-                <div className="item">
                   <p>Git</p>
                 </div>
                 <div className="item">
@@ -79,13 +74,7 @@ export const Skills = () => {
                   <p>Node.js</p>
                 </div>
                 <div className="item">
-                  <p>Storybook</p>
-                </div>
-                <div className="item">
                   <p>Sentry</p>
-                </div>
-                <div className="item">
-                  <p>Azure SQL</p>
                 </div>
                 <div className="item">
                   <p>i18next</p>
@@ -116,9 +105,6 @@ export const Skills = () => {
                 </div>
                 <div className="item">
                   <p>Jira</p>
-                </div>
-                <div className="item">
-                  <p>Cypress</p>
                 </div>
                 <div className="item">
                   <p>Figma</p>
