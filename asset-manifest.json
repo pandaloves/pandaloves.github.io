@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3ff4637e.css",
-    "main.js": "/static/js/main.c908c81a.js",
+    "main.js": "/static/js/main.bae8a3b9.js",
     "static/js/787.7d0835b7.chunk.js": "/static/js/787.7d0835b7.chunk.js",
     "static/media/macdonalds.png": "/static/media/macdonalds.c2644a3b1aaba594f906.png",
     "static/media/Jag.png": "/static/media/Jag.c306d71ca2d19fc3f521.png",
@@ -14,6 +14,7 @@
     "static/media/FashionHub.png": "/static/media/FashionHub.25ccc2e1465a580d3206.png",
     "static/media/happy chat.png": "/static/media/happy chat.b25e028f7aa0b80587a7.png",
     "static/media/Coursera Google UX design certificate.jpg": "/static/media/Coursera Google UX design certificate.97781559f3b725687607.jpg",
+    "static/media/hitract.png": "/static/media/hitract.39f401f5f9769c545b20.png",
     "static/media/presentstore.png": "/static/media/presentstore.1a2b8273885c8b7da475.png",
     "static/media/CSN project.png": "/static/media/CSN project.9f5360d3212c78b61f9f.png",
     "static/media/carousel.png": "/static/media/carousel.ff5a47e7bcbc83ad9f47.png",
@@ -45,11 +46,11 @@
     "index.html": "/index.html",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.3ff4637e.css.map": "/static/css/main.3ff4637e.css.map",
-    "main.c908c81a.js.map": "/static/js/main.c908c81a.js.map",
+    "main.bae8a3b9.js.map": "/static/js/main.bae8a3b9.js.map",
     "787.7d0835b7.chunk.js.map": "/static/js/787.7d0835b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ff4637e.css",
-    "static/js/main.c908c81a.js"
+    "static/js/main.bae8a3b9.js"
   ]
 }
