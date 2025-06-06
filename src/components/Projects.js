@@ -22,12 +22,20 @@ import projImg34 from "../assets/img/projects/ui projects/EA.png";
 import projImg35 from "../assets/img/projects/ui projects/PresentStore.png";
 import projImg36 from "../assets/img/projects/ui projects/McDonald’s.png";
 import projImg37 from "../assets/img/projects/ui projects/sushi.png";
+import projImg38 from "../assets/img/projects/web development projects/hitract.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
 
 export const Projects = () => {
   const firstProjects = [
+     {
+      title: "Hitract projects",
+      description:
+      "What I created during my internship at Hitract AB with Next.js, TypeScript and Material UI",
+      imgUrl: projImg38,
+      websiteLink: "https://www.youtube.com/watch?v=PKYEE5UovJ0",
+    },
     {
       title: "Sushi App",
       description:
