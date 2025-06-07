@@ -67,14 +67,14 @@ export const Projects = () => {
     {
       title: "Sushi App",
       description:
-      "With .NET 8 and C#",
+      "With .NET and C#",
       imgUrl: projImg1,
       websiteLink: "https://github.com/pandaloves/sushiOrderAPI",
     },
     {
       title: "FashionHub",
       description:
-        "With .NET 8 and C#",
+        "With .NET and C#",
       imgUrl: projImg3,
       websiteLink: "https://github.com/pandaloves/fashionAPI",
     },
@@ -87,7 +87,7 @@ export const Projects = () => {
     },
     {
       title: "MemoApp",
-      description: "With .NET 8 and C#",
+      description: "With .NET and C#",
       imgUrl: projImg5,
       websiteLink: "https://github.com/pandaloves/crud-dotnet-api",
     },
