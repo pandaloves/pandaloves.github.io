@@ -67,27 +67,27 @@ export const Projects = () => {
     {
       title: "Sushi App",
       description:
-      "Fullstack with Next.js, .NET 8, C#, Azure, TypeScript, Material UI",
+      "With .NET 8 and C#",
       imgUrl: projImg1,
       websiteLink: "https://github.com/pandaloves/sushiOrderAPI",
     },
     {
       title: "FashionHub",
       description:
-        "Fullstack with React, .NET 8, C#, REST API(token management), Azure, JavaScript, Tailwind CSS & Chakra UI",
+        "With .NET 8 and C#",
       imgUrl: projImg3,
       websiteLink: "https://github.com/pandaloves/fashionAPI",
     },
     {
       title: "Tea Shop (Team project)",
       description:
-        "Fullstack with React, Node.js, Express, Azure, Storybook & NPM package",
+        "With Node.js and Express",
       imgUrl: projImg4,
       websiteLink: "https://github.com/pandaloves/tea-api",
     },
     {
       title: "MemoApp",
-      description: "Fullstack with Angular 18, .NET 8, REST API(token management) & Azure",
+      description: "With .NET 8 and C#",
       imgUrl: projImg5,
       websiteLink: "https://github.com/pandaloves/crud-dotnet-api",
     },
