@@ -1,7 +1,6 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
 import projImg1 from "../assets/img/projects/web development projects/Sushi app.png";
-import projImg2 from "../assets/img/projects/web development projects/happy chat.png";
 import projImg3 from "../assets/img/projects/web development projects/FashionHub.png";
 import projImg4 from "../assets/img/projects/web development projects/teaShop.png";
 import projImg5 from "../assets/img/projects/web development projects/MemoApp.png";
@@ -42,13 +41,6 @@ export const Projects = () => {
       "With Next.js, TypeScript and Material UI",
       imgUrl: projImg1,
       websiteLink: "https://sushi-order-app.netlify.app",
-    },
-    {
-      title: "Happy Chat",
-      description:
-      "With React(including localStorage, Logging, CSP and Sentry), JavaScript and daisyUI",
-      imgUrl: projImg2,
-      websiteLink: "https://happy-chat-now.netlify.app"
     },
     {
       title: "FashionHub",
