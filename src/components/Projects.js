@@ -94,6 +94,13 @@ export const Projects = () => {
   ];
 
   const thirdProjects = [
+     {
+      title: "Sushi App",
+      description: "With Figma",
+      imgUrl: projImg1,
+      websiteLink:
+        "https://docs.google.com/document/d/1JsjvxcYflhbaCFhBBEtq-ONR69-jvn15Pz0GnlX2tVw/edit?tab=t.0#heading=h.xqrnvg506jf",
+    },
     {
       title: "EA",
       description: "With Figma",
