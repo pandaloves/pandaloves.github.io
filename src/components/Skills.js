@@ -38,6 +38,9 @@ export const Skills = () => {
                   <p>Java</p>
                 </div>
                 <div className="item">
+                  <p>TypeScript</p>
+                </div>
+                <div className="item">
                   <p>React</p>
                 </div>
                 <div className="item">
@@ -47,6 +50,12 @@ export const Skills = () => {
                   <p>TypeScript</p>
                 </div>
                 <div className="item">
+                  <p>Git</p>
+                </div>
+                <div className="item">
+                  <p>REST API</p>
+                </div>
+                <div className="item">
                   <p>Material-UI</p>
                 </div>
                 <div className="item">
@@ -54,9 +63,6 @@ export const Skills = () => {
                 </div>
                 <div className="item">
                   <p>Chakra-UI</p>
-                </div>
-                 <div className="item">
-                  <p>Git</p>
                 </div>
                 <div className="item">
                   <p>Jira</p>
