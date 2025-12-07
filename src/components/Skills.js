@@ -35,16 +35,7 @@ export const Skills = () => {
                 className="owl-carousel owl-theme skill-slider"
               >
                 <div className="item">
-                  <p>HTML</p>
-                </div>
-                <div className="item">
-                  <p>CSS</p>
-                </div>
-                <div className="item">
-                  <p>JavaScript</p>
-                </div>
-                <div className="item">
-                  <p>TypeScript</p>
+                  <p>Java</p>
                 </div>
                 <div className="item">
                   <p>React</p>
@@ -53,37 +44,7 @@ export const Skills = () => {
                   <p>Next.js</p>
                 </div>
                 <div className="item">
-                  <p>Angular</p>
-                </div>
-                <div className="item">
-                  <p>Git</p>
-                </div>
-                <div className="item">
-                  <p>Github</p>
-                </div>
-                <div className="item">
-                  <p>REST API</p>
-                </div>
-                <div className="item">
-                  <p>C#</p>
-                </div>
-                <div className="item">
-                  <p>.NET 8</p>
-                </div>
-                <div className="item">
-                  <p>Node.js</p>
-                </div>
-                <div className="item">
-                  <p>Sentry</p>
-                </div>
-                <div className="item">
-                  <p>i18next</p>
-                </div>
-                <div className="item">
-                  <p>Bootstrap</p>
-                </div>
-                <div className="item">
-                  <p>React-Bootstrap</p>
+                  <p>TypeScript</p>
                 </div>
                 <div className="item">
                   <p>Material-UI</p>
@@ -94,14 +55,8 @@ export const Skills = () => {
                 <div className="item">
                   <p>Chakra-UI</p>
                 </div>
-                <div className="item">
-                  <p>Netlify</p>
-                </div>
-                <div className="item">
-                  <p>Vercel</p>
-                </div>
-                <div className="item">
-                  <p>Firebase</p>
+                 <div className="item">
+                  <p>Git</p>
                 </div>
                 <div className="item">
                   <p>Jira</p>
