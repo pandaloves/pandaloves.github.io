@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3ff4637e.css",
-    "main.js": "/static/js/main.4840d9a5.js",
+    "main.js": "/static/js/main.c28aa3df.js",
     "static/js/787.7d0835b7.chunk.js": "/static/js/787.7d0835b7.chunk.js",
     "static/media/macdonalds.png": "/static/media/macdonalds.c2644a3b1aaba594f906.png",
     "static/media/Jag.png": "/static/media/Jag.c306d71ca2d19fc3f521.png",
@@ -23,13 +23,16 @@
     "static/media/EA.png": "/static/media/EA.767bed8b5b6985f5cef8.png",
     "static/media/Full-stack intern certification.jpg": "/static/media/Full-stack intern certification.a4efe398ef347c8d1c06.jpg",
     "static/media/PresentStore.png": "/static/media/PresentStore.e114ab348437cf0cd496.png",
+    "static/media/administration app.png": "/static/media/administration app.c872bdb31d154000d46f.png",
     "static/media/Javascript.jpg": "/static/media/Javascript.829cc5b6545f67cd66c4.jpg",
     "static/media/canvas.png": "/static/media/canvas.c2eac2817694820700f6.png",
     "static/media/Lärarlegitimation.jpg": "/static/media/Lärarlegitimation.f86e7f51c0697bc3e36f.jpg",
     "static/media/The Web Developer Bootcamp 2022 with Colt.jpg": "/static/media/The Web Developer Bootcamp 2022 with Colt.f786a342e43bed6407b1.jpg",
     "static/media/ea.png": "/static/media/ea.22259599263e062d061f.png",
     "static/media/McDonald’s.png": "/static/media/McDonald’s.ee03b12348b2ad42f419.png",
+    "static/media/dice game.png": "/static/media/dice game.364f8a328f9cc04ca41b.png",
     "static/media/google.png": "/static/media/google.c58a832b5abaf1af40b0.png",
+    "static/media/chat room.png": "/static/media/chat room.1520edc8eb5f0059cd9c.png",
     "static/media/MemoApp.png": "/static/media/MemoApp.7879f83818bc6db3de7c.png",
     "static/media/onloading.png": "/static/media/onloading.95121ef39815ab22ac4c.png",
     "static/media/on-off.png": "/static/media/on-off.ae682a0cd14afb89248f.png",
@@ -45,11 +48,11 @@
     "index.html": "/index.html",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.3ff4637e.css.map": "/static/css/main.3ff4637e.css.map",
-    "main.4840d9a5.js.map": "/static/js/main.4840d9a5.js.map",
+    "main.c28aa3df.js.map": "/static/js/main.c28aa3df.js.map",
     "787.7d0835b7.chunk.js.map": "/static/js/787.7d0835b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ff4637e.css",
-    "static/js/main.4840d9a5.js"
+    "static/js/main.c28aa3df.js"
   ]
 }
