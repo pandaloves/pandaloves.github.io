@@ -22,12 +22,37 @@ import projImg35 from "../assets/img/projects/ui projects/PresentStore.png";
 import projImg36 from "../assets/img/projects/ui projects/McDonald’s.png";
 import projImg37 from "../assets/img/projects/ui projects/sushi.png";
 import projImg38 from "../assets/img/projects/web development projects/hitract.png";
+import projImg39 from "../assets/img/projects/web development projects/dice game.png";
+import projImg40 from "../assets/img/projects/web development projects/administration app.png";
+import projImg41 from "../assets/img/projects/web development projects/chat room.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
 
 export const Projects = () => {
   const firstProjects = [
+     {
+      title: "Chat room",
+      description:
+      "A fullstack project with Java, Spring Boot, Web Socket, MySQL, Next.js and TypeScript, ",
+      imgUrl: projImg41,
+      websiteLink: "https://github.com/pandaloves/chat",
+    },
+     {
+      title: "Administration App",
+      description:
+      "A fullstack project with Next.js, TypeScript, Material UI, Java and Spring Boot",
+      imgUrl: projImg40,
+      websiteLink: "https://github.com/pandaloves/administration-backend",
+    },
+     {
+      title: "Dice App",
+      description:
+      "A fullstack project with Next.js, TypeScript, Material UI, Java and Spring Boot",
+      imgUrl: projImg39,
+      websiteLink: "https://github.com/pandaloves/dice-app",
+    },
+
      {
       title: "Hitract projects",
       description:
