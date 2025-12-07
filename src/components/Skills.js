@@ -47,9 +47,6 @@ export const Skills = () => {
                   <p>Next.js</p>
                 </div>
                 <div className="item">
-                  <p>TypeScript</p>
-                </div>
-                <div className="item">
                   <p>Git</p>
                 </div>
                 <div className="item">
