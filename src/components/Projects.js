@@ -34,7 +34,7 @@ export const Projects = () => {
      {
       title: "Chat room",
       description:
-      "A fullstack project with Java, Spring Boot, Web Socket, MySQL, Next.js and TypeScript, ",
+      "A fullstack project with Java, Spring Boot, Web Socket, MySQL, Next.js and TypeScript",
       imgUrl: projImg41,
       websiteLink: "https://github.com/pandaloves/chat",
     },
