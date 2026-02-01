@@ -32,7 +32,7 @@ export const Projects = () => {
      {
       title: "Social app",
       description:
-      "A fullstack project with Java, Spring Boot, Neon, Koyeb, Next.js and TypeScript",
+      "A fullstack project with Java, Spring Boot, Neon, Koyeb, Next.js",
       imgUrl: projImg38,
       websiteLink: "https://social-application-fullstack.netlify.app",
     },
