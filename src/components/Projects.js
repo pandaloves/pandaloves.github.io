@@ -21,13 +21,53 @@ import projImg34 from "../assets/img/projects/ui projects/EA.png";
 import projImg35 from "../assets/img/projects/ui projects/PresentStore.png";
 import projImg36 from "../assets/img/projects/ui projects/McDonald’s.png";
 import projImg37 from "../assets/img/projects/ui projects/sushi.png";
-import projImg38 from "../assets/img/projects/web development projects/Social app.png";
+import projImg38 from "../assets/img/projects/web development projects/hitract.png";
+import projImg39 from "../assets/img/projects/web development projects/dice game.png";
+import projImg40 from "../assets/img/projects/web development projects/administration app.png";
+import projImg41 from "../assets/img/projects/web development projects/chat room.png";
+import projImg42 from "../assets/img/projects/web development projects/Social app.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
 
 export const Projects = () => {
   const firstProjects = [
+     {
+      title: "Social app",
+      description:
+      "A fullstack project with Java, Spring Boot, Neon, Koyeb, Next.js and TypeScript",
+      imgUrl: projImg42,
+      websiteLink: "https://social-application-fullstack.netlify.app",
+    },
+     {
+      title: "Chat room",
+      description:
+      "A fullstack project with Java, Spring Boot, Web Socket, MySQL, Next.js and TypeScript",
+      imgUrl: projImg41,
+      websiteLink: "https://github.com/pandaloves/chat",
+    },
+     {
+      title: "Administration App",
+      description:
+      "A fullstack project with Next.js, TypeScript, Material UI, Java and Spring Boot",
+      imgUrl: projImg40,
+      websiteLink: "https://github.com/pandaloves/administration-backend",
+    },
+     {
+      title: "Dice App",
+      description:
+      "A fullstack project with Next.js, TypeScript, Material UI, Java and Spring Boot",
+      imgUrl: projImg39,
+      websiteLink: "https://github.com/pandaloves/dice-app",
+    },
+
+     {
+      title: "Hitract projects",
+      description:
+      "What I created during my internship at Hitract AB with Next.js, TypeScript and Material UI",
+      imgUrl: projImg38,
+      websiteLink: "https://www.youtube.com/watch?v=PKYEE5UovJ0",
+    },
     {
       title: "Social app",
       description:
