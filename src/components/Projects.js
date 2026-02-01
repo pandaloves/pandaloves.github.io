@@ -1,7 +1,6 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
 import projImg1 from "../assets/img/projects/web development projects/Sushi app.png";
-import projImg2 from "../assets/img/projects/web development projects/happy chat.png";
 import projImg3 from "../assets/img/projects/web development projects/FashionHub.png";
 import projImg4 from "../assets/img/projects/web development projects/teaShop.png";
 import projImg5 from "../assets/img/projects/web development projects/MemoApp.png";
@@ -22,25 +21,59 @@ import projImg34 from "../assets/img/projects/ui projects/EA.png";
 import projImg35 from "../assets/img/projects/ui projects/PresentStore.png";
 import projImg36 from "../assets/img/projects/ui projects/McDonald’s.png";
 import projImg37 from "../assets/img/projects/ui projects/sushi.png";
+import projImg38 from "../assets/img/projects/web development projects/hitract.png";
+import projImg39 from "../assets/img/projects/web development projects/dice game.png";
+import projImg40 from "../assets/img/projects/web development projects/administration app.png";
+import projImg41 from "../assets/img/projects/web development projects/chat room.png";
+import projImg42 from "../assets/img/projects/web development projects/Social app.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
 
 export const Projects = () => {
   const firstProjects = [
+     {
+      title: "Social app",
+      description:
+      "A fullstack project with Java, Spring Boot, Neon, Koyeb, Next.js and TypeScript",
+      imgUrl: projImg42,
+      websiteLink: "https://social-application-fullstack.netlify.app",
+    },
+     {
+      title: "Chat room",
+      description:
+      "A fullstack project with Java, Spring Boot, Web Socket, MySQL, Next.js and TypeScript",
+      imgUrl: projImg41,
+      websiteLink: "https://github.com/pandaloves/chat",
+    },
+     {
+      title: "Administration App",
+      description:
+      "A fullstack project with Next.js, TypeScript, Material UI, Java and Spring Boot",
+      imgUrl: projImg40,
+      websiteLink: "https://github.com/pandaloves/administration-backend",
+    },
+     {
+      title: "Dice App",
+      description:
+      "A fullstack project with Next.js, TypeScript, Material UI, Java and Spring Boot",
+      imgUrl: projImg39,
+      websiteLink: "https://github.com/pandaloves/dice-app",
+    },
+
+     {
+      title: "Hitract projects",
+      description:
+      "What I created during my internship at Hitract AB with Next.js, TypeScript and Material UI",
+      imgUrl: projImg38,
+      websiteLink: "https://www.youtube.com/watch?v=PKYEE5UovJ0",
+    },
     {
       title: "Sushi App",
       description:
       "With Next.js, TypeScript and Material UI",
       imgUrl: projImg1,
       websiteLink: "https://sushi-order-app.netlify.app",
-    },
-    {
-      title: "Happy Chat",
-      description:
-      "With React(including localStorage, Logging, CSP and Sentry), JavaScript and daisyUI",
-      imgUrl: projImg2,
-      websiteLink: "https://happy-chat-now.netlify.app"
     },
     {
       title: "FashionHub",
@@ -67,33 +100,40 @@ export const Projects = () => {
     {
       title: "Sushi App",
       description:
-      "Fullstack with Next.js, .NET 8, C#, Azure, TypeScript, Material UI",
+      "With .NET and C#",
       imgUrl: projImg1,
       websiteLink: "https://github.com/pandaloves/sushiOrderAPI",
     },
     {
       title: "FashionHub",
       description:
-        "Fullstack with React, .NET 8, C#, REST API(token management), Azure, JavaScript, Tailwind CSS & Chakra UI",
+        "With .NET and C#",
       imgUrl: projImg3,
       websiteLink: "https://github.com/pandaloves/fashionAPI",
     },
     {
       title: "Tea Shop (Team project)",
       description:
-        "Fullstack with React, Node.js, Express, Azure, Storybook & NPM package",
+        "With Node.js and Express",
       imgUrl: projImg4,
       websiteLink: "https://github.com/pandaloves/tea-api",
     },
     {
       title: "MemoApp",
-      description: "Fullstack with Angular 18, .NET 8, REST API(token management) & Azure",
+      description: "With .NET and C#",
       imgUrl: projImg5,
       websiteLink: "https://github.com/pandaloves/crud-dotnet-api",
     },
   ];
 
   const thirdProjects = [
+     {
+      title: "Sushi App",
+      description: "With Figma",
+      imgUrl: projImg1,
+      websiteLink:
+        "https://docs.google.com/document/d/1JsjvxcYflhbaCFhBBEtq-ONR69-jvn15Pz0GnlX2tVw/edit?tab=t.0#heading=h.xqrnvg506jf",
+    },
     {
       title: "EA",
       description: "With Figma",
@@ -233,10 +273,10 @@ export const Projects = () => {
                       id="pills-tab"
                     >
                       <Nav.Item>
-                        <Nav.Link eventKey="first">Frontend</Nav.Link>
+                        <Nav.Link eventKey="first">FD</Nav.Link>
                       </Nav.Item>
                       <Nav.Item>
-                        <Nav.Link eventKey="second">Backend</Nav.Link>
+                        <Nav.Link eventKey="second">BD</Nav.Link>
                       </Nav.Item>
                       <Nav.Item>
                         <Nav.Link eventKey="third">UX</Nav.Link>
