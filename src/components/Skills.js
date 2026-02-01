@@ -59,6 +59,9 @@ export const Skills = () => {
                   <p>Git</p>
                 </div>
                 <div className="item">
+                  <p>Docker</p>
+                </div>
+                <div className="item">
                   <p>REST API</p>
                 </div>
                 <div className="item">
