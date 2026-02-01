@@ -75,7 +75,7 @@ export const Banner = () => {
                   </h1>
                   <p>
                     {" "}
-                    Hi! I'm Meiying, a Frontend developer and UX / UI designer,
+                    Hi! I'm Meiying, a Frontend developer, a Java developer and UX / UI designer,
                     understanding how technology impacts people's behaviours and
                     habits. I am also a licensed English teacher, with a
                     master's degree in pedagogy. I am inquisitive, positive,
