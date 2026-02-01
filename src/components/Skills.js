@@ -37,6 +37,15 @@ export const Skills = () => {
                 <div className="item">
                   <p>Java</p>
                 </div>
+                 <div className="item">
+                  <p>Spring Boot</p>
+                </div>
+                 <div className="item">
+                  <p>Neon</p>
+                </div>
+                <div className="item">
+                  <p>Koyeb</p>
+                </div>
                 <div className="item">
                   <p>TypeScript</p>
                 </div>
