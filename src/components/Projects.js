@@ -25,12 +25,20 @@ import projImg38 from "../assets/img/projects/web development projects/hitract.p
 import projImg39 from "../assets/img/projects/web development projects/dice game.png";
 import projImg40 from "../assets/img/projects/web development projects/administration app.png";
 import projImg41 from "../assets/img/projects/web development projects/chat room.png";
+import projImg42 from "../assets/img/projects/web development projects/Social app.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
 
 export const Projects = () => {
   const firstProjects = [
+     {
+      title: "Social app",
+      description:
+      "A fullstack project with Java, Spring Boot, Neon, Koyeb, Next.js and TypeScript",
+      imgUrl: projImg42,
+      websiteLink: "https://social-application-fullstack.netlify.app",
+    },
      {
       title: "Chat room",
       description:
