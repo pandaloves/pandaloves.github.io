@@ -69,13 +69,6 @@ export const Projects = () => {
       websiteLink: "https://www.youtube.com/watch?v=PKYEE5UovJ0",
     },
     {
-      title: "Social app",
-      description:
-      "A fullstack project with Java, Spring Boot, Neon, Koyeb, Next.js and TypeScript",
-      imgUrl: projImg38,
-      websiteLink: "https://social-application-fullstack.netlify.app",
-    },
-    {
       title: "Sushi App",
       description:
       "With Next.js, TypeScript and Material UI",
