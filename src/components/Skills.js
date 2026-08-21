@@ -53,10 +53,10 @@ export const Skills = () => {
                   <p>REST API</p>
                 </div>
                 <div className="item">
-                  <p>Material-UI</p>
+                  <p>Material UI</p>
                 </div>
                 <div className="item">
-                  <p>Tailwind-CSS</p>
+                  <p>Tailwind</p>
                 </div>
                 <div className="item">
                   <p>Jira</p>
