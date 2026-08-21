@@ -22,25 +22,66 @@ import projImg34 from "../assets/img/projects/ui projects/EA.png";
 import projImg35 from "../assets/img/projects/ui projects/PresentStore.png";
 import projImg36 from "../assets/img/projects/ui projects/McDonald’s.png";
 import projImg37 from "../assets/img/projects/ui projects/sushi.png";
+import projImg38 from "../assets/img/projects/web development projects/Hitract.png";
+import projImg39 from "../assets/img/projects/web development projects/Dice app.png";
+import projImg40 from "../assets/img/projects/web development projects/Administration app.png";
+import projImg41 from "../assets/img/projects/web development projects/Chat app.png";
+import projImg42 from "../assets/img/projects/web development projects/Social app.png";
+import projImg43 from "../assets/img/projects/web development projects/woorld.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
 
 export const Projects = () => {
   const firstProjects = [
+         {
+      title: "Woorld project",
+      description:
+      "A frontend project with Next.js, TypeScript and Material UI ",
+      imgUrl: projImg43,
+      websiteLink: "https://woorld.netlify.app/",
+    },
+        {
+      title: "Social app",
+      description:
+      "A fullstack project with Java, Spring Boot, Neon, Koyeb, Next.js and Material UI ",
+      imgUrl: projImg42,
+      websiteLink: "https://social-application-fullstack.netlify.app/feed",
+    },
+       {
+      title: "Chat app",
+      description:
+      "A fullstack project with Java, Spring Boot, Web Socket, MySQL, Next.js and Material UI ",
+      imgUrl: projImg41,
+      websiteLink: "https://github.com/pandaloves/chatApp",
+    },
+     {
+      title: "Administration app",
+      description:
+      "A fullstack project with Next.js, TypeScript and Material UI, Java and Spring Boot ",
+      imgUrl: projImg40,
+      websiteLink: "https://github.com/pandaloves/administration-frontend",
+    },
+     {
+      title: "DICE app",
+      description:
+      "A fullstack project with Next.js, TypeScript and Material UI, Java and Spring Boot ",
+      imgUrl: projImg39,
+      websiteLink: "https://github.com/pandaloves/dice-game",
+    },
+     {
+      title: "Hitract project",
+      description:
+      "My projects at Hitract AB with Next.js, TypeScript and Material UI",
+      imgUrl: projImg38,
+      websiteLink: "https://www.youtube.com/watch?v=PKYEE5UovJ0",
+    },
     {
       title: "Sushi App",
       description:
       "With Next.js, TypeScript and Material UI",
       imgUrl: projImg1,
       websiteLink: "https://sushi-order-app.netlify.app",
-    },
-    {
-      title: "Happy Chat",
-      description:
-      "With React(including localStorage, Logging, CSP and Sentry), JavaScript and daisyUI",
-      imgUrl: projImg2,
-      websiteLink: "https://happy-chat-now.netlify.app"
     },
     {
       title: "FashionHub",
@@ -64,6 +105,34 @@ export const Projects = () => {
   ];
 
   const secondProjects = [
+     {
+      title: "Chat app",
+      description:
+      "A fullstack project with Java, Spring Boot, Web Socket, MySQL, Next.js and Material UI ",
+      imgUrl: projImg41,
+      websiteLink: "https://github.com/pandaloves/chat",
+    },
+    {
+      title: "Social app",
+      description:
+      "A fullstack project with Java, Spring Boot, Neon, Koyeb, Next.js and Material UI ",
+      imgUrl: projImg42,
+      websiteLink: "https://github.com/pandaloves/social-app",
+    },
+     {
+      title: "Administration app",
+      description:
+      "A fullstack project with Next.js, TypeScript and Material UI, Java and Spring Boot ",
+      imgUrl: projImg40,
+      websiteLink: "https://github.com/pandaloves/administration-backend",
+    },
+     {
+      title: "DICE app",
+      description:
+      "A fullstack project with Next.js, TypeScript and Material UI, Java and Spring Boot ",
+      imgUrl: projImg39,
+      websiteLink: "https://github.com/pandaloves/dice-app",
+    },
     {
       title: "Sushi App",
       description:
