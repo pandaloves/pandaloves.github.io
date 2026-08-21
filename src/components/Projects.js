@@ -131,7 +131,7 @@ export const Projects = () => {
       description:
       "A fullstack project with Next.js, TypeScript and Material UI, Java and Spring Boot ",
       imgUrl: projImg39,
-      websiteLink: "https://github.com/pandaloves/dice-app",
+      websiteLink: "https://github.com/pandaloves/dice-game-app",
     },
     {
       title: "Sushi App",
